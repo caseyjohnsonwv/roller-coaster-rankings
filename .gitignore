@@ -1,0 +1,9 @@
+data/*
+!coasterbot_raw.csv
+
+queries/
+
+Include/
+Scripts/
+Lib/
+pyvenv.cfg
