@@ -10,4 +10,4 @@ This is literally just [Datasette](https://datasette.io/) running on local.
 ## The Gist of It
 
 - The `data/` folder contains all the CSVs to be uploaded to the DB. These are parsed on startup.
-- The `utils/` folder contains Bash scripts for launching the application. (The publish script does not work on Windows - bug in Datasette)
+- The `utils/` folder contains Bash scripts for launching the application.
