@@ -10,7 +10,3 @@ for f in *.csv
   do
     sqlite-utils insert coasterbot.db ${f%.*} $f --csv
   done
-
-
-
-

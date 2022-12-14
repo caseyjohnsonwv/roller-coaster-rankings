@@ -1,7 +1,4 @@
-data/*
-!coasterbot_raw.csv
-
-queries/
+*.db
 
 Include/
 Scripts/
