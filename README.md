@@ -4,7 +4,7 @@ This is literally just [Datasette](https://datasette.io/) running on local.
 
 ## Quickstart
 
-1. Obviously clone, install requirements, virtual env if that's your speed, etc etc
+1. Clone the code.
 2. Run `bash utils/start.sh`
 
 ## The Gist of It
