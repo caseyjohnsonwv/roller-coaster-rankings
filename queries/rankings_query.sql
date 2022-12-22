@@ -27,7 +27,7 @@ from
           cast(cb.rank as int) as enthusiast_rank
         from
           credits_cleaned as cr
-          left join coasterbot_cleaned as cb on cr.coaster = cb.name
+          left join coasterbot_21_cleaned as cb on cr.coaster = cb.name
           and cb.`Theme Park` = cr.park
       )
   ) as th on my.coaster = th.coaster

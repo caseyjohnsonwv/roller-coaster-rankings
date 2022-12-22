@@ -1,0 +1,1305 @@
+Score,Rank,Roller Coaster,Theme Park,Country,Manufacturer,Debut year,Win,Draw,Loss,Total,Ridership
+1,1,Iron Gwazi,Busch Gardens Tampa,United States,Rocky Mountain Construction,2022,997,0,0,997,370
+0.9990774908,2,Steel Vengeance,Cedar Point,United States,Rocky Mountain Construction,2018,1083,0,1,1084,693
+0.9981096408,3,VelociCoaster,Islands of Adventure,United States,Intamin,2021,1056,0,2,1058,529
+0.9969387755,4,Zadra,Energylandia,Poland,Rocky Mountain Construction,2019,977,0,3,980,281
+0.9953617811,5,Fury 325,Carowinds,United States,Bolliger & Mabillard,2015,1073,0,5,1078,402
+0.9932756964,6,Ride to Happiness,Plopsaland De Panne,Belgium,Mack Rides,2021,1033,2,6,1041,405
+0.992484527,7,El Toro,Six Flags Great Adventure,United States,Intamin,2006,1122,1,8,1131,382
+0.9918269231,8,Lightning Rod,Dollywood,United States,Rocky Mountain Construction,2016,1031,1,8,1040,318
+0.9897674419,9,Voyage,Holiday World,United States,Gravity Group,2006,1063,2,10,1075,277
+0.9884792627,10,Wildfire,Kolmården,Sweden,Rocky Mountain Construction,2016,858,0,10,868,121
+0.9868173258,11,Untamed,Walibi Holland,Netherlands,Rocky Mountain Construction,2019,1047,2,13,1062,452
+0.9863013699,12,Taiga,Linnanmäki,Finland,Intamin,2019,791,2,10,803,75
+0.9854368932,13,Maverick,Cedar Point,United States,Intamin,2007,1116,1,16,1133,682
+0.9843068875,14,Taron,Phantasialand,Germany,Intamin,2016,1129,0,18,1147,679
+0.9827264239,15,Intimidator 305,Kings Dominion,United States,Intamin,2010,1050,5,16,1071,385
+0.9815668203,16,Hakugei,Nagashima Spa Land,Japan,Rocky Mountain Construction,2019,426,0,8,434,43
+0.9815175097,17,Skyrush,Hersheypark,United States,Intamin,2012,1009,0,19,1028,360
+0.981112277,18,Kondaa,Walibi Belgium,Belgium,Intamin,2021,935,0,18,953,352
+0.98,19,Expedition GeForce,Holiday Park,Germany,Intamin,2001,1078,0,22,1100,228
+0.9751269036,20,Twisted Timbers,Kings Dominion,United States,Rocky Mountain Construction,2018,960,1,24,985,341
+0.9736842105,21,F.L.Y.,Phantasialand,Germany,Vekoma,2020,1072,2,28,1102,537
+0.9722222222,22,Shambhala,PortAventura Park,Spain,Bolliger & Mabillard,2012,1032,1,29,1062,331
+0.9715157681,23,Helix,Liseberg,Sweden,Mack Rides,2014,953,4,26,983,181
+0.9705588822,24,Twisted Colossus,Six Flags Magic Mountain,United States,Rocky Mountain Construction,2015,972,1,29,1002,316
+0.9690982776,25,Hyperion,Energylandia,Poland,Intamin,2018,955,3,29,987,256
+0.9675572519,26,Schwur des Kärnan,Hansa Park,Germany,Gerstlauer,2015,1010,8,30,1048,235
+0.9674145299,27,Outlaw Run,Silver Dollar City,United States,Rocky Mountain Construction,2013,905,1,30,936,194
+0.9659514925,28,X2,Six Flags Magic Mountain,United States,Arrow Dynamics,2002,1032,7,33,1072,312
+0.9656387665,29,Millennium Force,Cedar Point,United States,Intamin,2000,1096,0,39,1135,645
+0.9653179191,30,Phantom's Revenge,Kennywood,United States,Morgan,2001,1001,2,35,1038,257
+0.9648148148,31,Pantheon,Busch Gardens Williamsburg,United States,Intamin,2022,781,1,28,810,198
+0.9628008753,32,T Express,Everland,South Korea,Intamin,2008,439,2,16,457,24
+0.9622641509,33,Wicked Cyclone,Six Flags New England,United States,Rocky Mountain Construction,2015,967,4,36,1007,207
+0.960852329,34,Superman the Ride,Six Flags New England,United States,Intamin,2000,967,5,37,1009,206
+0.9607740586,35,Iron Rattler,Six Flags Fiesta Texas,United States,Rocky Mountain Construction,2013,918,1,37,956,182
+0.9600840336,36,DC Rivals HyperCoaster,Warner Bros. Movie World,Australia,Mack Rides,2017,228,1,9,238,50
+0.959285005,37,Storm Chaser,Kentucky Kingdom,United States,Rocky Mountain Construction,2016,964,4,39,1007,215
+0.9591397849,38,Lech Coaster,Legendia Śląskie Wesołe Miasteczko,Poland,Vekoma,2017,890,4,36,930,125
+0.955920484,39,Mako,SeaWorld Orlando,United States,Bolliger & Mabillard,2016,1105,2,50,1157,421
+0.9529953917,40,GhostRider,Knott's Berry Farm,United States,Custom Coasters International,1998,1030,8,47,1085,256
+0.9499017682,41,Mystic Timbers,Kings Island,United States,Great Coasters International,2017,965,4,49,1018,419
+0.9482006543,42,Time Traveler,Silver Dollar City,United States,Mack Rides,2018,867,5,45,917,174
+0.948038176,43,Phoenix,Knoebels Amusement Resort,United States,Philadelphia Toboggan Coasters,1985,890,8,45,943,218
+0.9459459459,44,Piraten,Djurs Sommerland,Denmark,Intamin,2008,801,8,42,851,65
+0.9432661718,45,Leviathan,Canada's Wonderland,Canada,Bolliger & Mabillard,2012,887,5,51,943,155
+0.9389067524,46,Orion,Kings Island,United States,Bolliger & Mabillard,2020,874,4,55,933,366
+0.937962963,47,Colossos - Kampf der Giganten,Heide Park Resort,Germany,Intamin,2001,1010,6,64,1080,219
+0.9378600823,48,Montu,Busch Gardens Tampa,United States,Bolliger & Mabillard,1996,1136,7,72,1215,488
+0.9371492705,49,Boulder Dash,Lake Compounce,United States,Custom Coasters International,2000,830,10,51,891,110
+0.9370967742,50,Flying Dinosaur,Universal Studios Japan,Japan,Bolliger & Mabillard,2016,579,4,37,620,47
+0.9366267465,51,Goliath,Six Flags Great America,United States,Rocky Mountain Construction,2014,937,3,62,1002,208
+0.9365671642,52,Nemesis,Alton Towers,United Kingdom,Bolliger & Mabillard,1994,998,12,62,1072,560
+0.9348958333,53,Goliath,Six Flags Over Georgia,United States,Bolliger & Mabillard,2006,896,3,61,960,207
+0.9346016647,54,RailBlazer,California's Great America,United States,Rocky Mountain Construction,2018,784,4,53,841,124
+0.9322981366,55,Wonder Woman Golden Lasso Coaster,Six Flags Fiesta Texas,United States,Rocky Mountain Construction,2018,749,3,53,805,132
+0.9307317073,56,Storm Runner,Hersheypark,United States,Intamin,2004,953,2,70,1025,302
+0.930372807,57,New Texas Giant,Six Flags Over Texas,United States,Rocky Mountain Construction,2011,847,3,62,912,143
+0.9284682081,58,Flying Aces,Ferrari World Abu Dhabi,United Arab Emirates,Intamin,2016,641,3,48,692,42
+0.928442029,59,Diamondback,Kings Island,United States,Bolliger & Mabillard,2009,1022,6,76,1104,404
+0.9260869565,60,Fønix,Fårup Sommerland,Denmark,Vekoma,2022,530,5,40,575,47
+0.9249539595,61,Tatsu,Six Flags Magic Mountain,United States,Bolliger & Mabillard,2006,999,11,76,1086,274
+0.9245426829,62,Eejanaika,Fuji-Q Highland,Japan,S&S Sansei Technologies,2006,592,29,35,656,61
+0.9228971963,63,Cannibal,Lagoon,United States,Lagoon,2015,589,7,46,642,67
+0.9224235561,64,Gold Striker,California's Great America,United States,Great Coasters International,2013,812,5,66,883,116
+0.9212812161,65,Balder,Liseberg,Sweden,Intamin,2003,845,7,69,921,110
+0.9210280374,66,Troy,Toverland,Netherlands,Great Coasters International,2007,982,7,81,1070,366
+0.9206008584,67,iSpeed,Mirabilandia,Italy,Intamin,2009,639,9,51,699,80
+0.9204819277,68,Twisted Cyclone,Six Flags Over Georgia,United States,Rocky Mountain Construction,2018,759,10,61,830,183
+0.9203586498,69,OzIris,Parc Astérix,France,Bolliger & Mabillard,2012,867,11,70,948,192
+0.918792517,70,Wodan Timbur Coaster,Europa Park,Germany,Great Coasters International,2012,1078,5,93,1176,434
+0.9187558032,71,Hagrid's Magical Creatures Motorbike Adventure,Universal Studios Islands of Adventure,United States,Intamin,2019,987,5,85,1077,433
+0.9184914842,72,Ravine Flyer II,Waldameer,United States,Gravity Group,2008,753,4,65,822,107
+0.9183394161,73,Goliath,Walibi Holland,Netherlands,Intamin,2002,1003,7,86,1096,401
+0.9171686747,74,Coaster,Playland,Canada,Carl Phare,1958,302,5,25,332,11
+0.9156403941,75,Shivering Timbers,Michigan's Adventure,United States,Custom Coasters International,1998,738,11,63,812,89
+0.9154995331,76,Lightning Run,Kentucky Kingdom,United States,Chance Rides,2014,976,9,86,1071,195
+0.9148230088,77,Copperhead Strike,Carowinds,United States,Mack Rides,2019,824,6,74,904,257
+0.914552737,78,Formula Rossa,Ferrari World Abu Dhabi,United Arab Emirates,Intamin,2010,678,14,57,749,47
+0.9114173228,79,Junker,PowerLand,Finland,Gerstlauer,2015,459,8,41,508,30
+0.9107611549,80,Nitro,Six Flags Great Adventure,United States,Bolliger & Mabillard,2001,1037,8,98,1143,332
+0.9104330709,81,Stunt Pilot,Silverwood Theme Park,United States,Rocky Mountain Construction,2021,462,1,45,508,23
+0.9078374456,82,Wonder Woman Flight of Courage,Six Flags Magic Mountain,United States,Rocky Mountain Construction,2022,620,11,58,689,94
+0.9072819644,83,Black Mamba,Phantasialand,Germany,Bolliger & Mabillard,2006,1067,9,105,1181,567
+0.9062170706,84,Icon,Blackpool Pleasure Beach,United Kingdom,Mack Rides,2018,856,8,85,949,346
+0.9051918736,85,Medusa Steel Coaster,Six Flags Mexico,Mexico,Rocky Mountain Construction,2014,398,6,39,443,20
+0.9048648649,86,Behemoth,Canada's Wonderland,Canada,Bolliger & Mabillard,2008,835,4,86,925,128
+0.9031377899,87,Monster,Walygator Grand Est,France,Bolliger & Mabillard,1996,658,8,67,733,49
+0.89875,88,Jersey Devil Coaster,Six Flags Great Adventure,United States,Rocky Mountain Construction,2021,716,6,78,800,178
+0.8984245439,89,Incredible Hulk,Universal Studios Islands of Adventure,United States,Bolliger & Mabillard,1999,1082,3,121,1206,553
+0.8980331263,90,Red Force,Ferrari Land,Spain,Intamin,2017,862,11,93,966,234
+0.8979678239,91,Silver Star,Europa Park,Germany,Bolliger & Mabillard,2002,1056,9,116,1181,421
+0.8978794643,92,Boardwalk Bullet,Kemah Boardwalk,United States,Gravity Group,2007,800,9,87,896,62
+0.8969726563,93,Xcelerator,Knott's Berry Farm,United States,Intamin,2002,916,5,103,1024,197
+0.8967254408,94,Monster,Adventureland Iowa,United States,Gerstlauer,2016,709,6,79,794,51
+0.8958333333,95,Katun,Mirabilandia,Italy,Bolliger & Mabillard,2000,617,13,66,696,75
+0.8953377735,96,Fēnix,Toverland,Netherlands,Bolliger & Mabillard,2018,937,8,106,1051,348
+0.8951149425,97,Karacho,Erlebnispark Tripsdrill,Germany,Gerstlauer,2013,928,13,103,1044,194
+0.8947688564,98,Candymonium,Hersheypark,United States,Bolliger & Mabillard,2020,734,3,85,822,248
+0.8946280992,99,Kumba,Busch Gardens Tampa,United States,Bolliger & Mabillard,1993,1076,13,121,1210,429
+0.891995614,100,Renegade,Valleyfair!,United States,Great Coasters International,2007,803,21,88,912,80
+0.8917475728,101,Smiler,Alton Towers,United Kingdom,Gerstlauer,2013,911,15,104,1030,505
+0.8902091255,102,Thunderbird,Holiday World,United States,Bolliger & Mabillard,2015,933,7,112,1052,200
+0.8898467433,103,Flucht von Novgorod,Hansa Park,Germany,Gerstlauer,2009,925,8,111,1044,206
+0.8895859473,104,Joker,Six Flags Discovery Kingdom,United States,Rocky Mountain Construction,2016,706,6,85,797,92
+0.8886310905,105,Prowler,Worlds of Fun,United States,Great Coasters International,2009,762,8,92,862,90
+0.8867924528,106,Alpengeist,Busch Gardens Williamsburg,United States,Bolliger & Mabillard,1997,937,6,117,1060,304
+0.8855140187,107,Afterburn,Carowinds,United States,Bolliger & Mabillard,1999,944,7,119,1070,280
+0.8844555278,108,Manta,SeaWorld Orlando,United States,Bolliger & Mabillard,2009,1061,6,136,1203,389
+0.8838652482,109,Kingda Ka,Six Flags Great Adventure,United States,Intamin,2005,991,12,125,1128,313
+0.8835714286,110,Guardians of the Galaxy: Cosmic Rewind,EPCOT,United States,Vekoma,2022,614,9,77,700,117
+0.8834269663,111,Apollo's Chariot,Busch Gardens Williamsburg,United States,Bolliger & Mabillard,1999,941,5,122,1068,303
+0.8792067308,112,Abyssus,Energylandia,Poland,Vekoma,2021,724,15,93,832,180
+0.8763392857,113,Magnum XL-200,Cedar Point,United States,Arrow Dynamics,1989,975,13,132,1120,532
+0.8760683761,114,Fury,Bobbejaanland,Belgium,Gerstlauer,2019,813,14,109,936,180
+0.8744318182,115,Hades 360,Mt. Olympus Water & Theme Park,United States,Gravity Group,2005,762,15,103,880,77
+0.8740458015,116,blue fire Megacoaster,Europa Park,Germany,Mack Rides,2009,1028,5,146,1179,417
+0.8739193084,117,Alpina Blitz,Nigloland,France,Mack Rides,2014,603,7,84,694,91
+0.8727272727,118,Yukon Striker,Canada's Wonderland,Canada,Bolliger & Mabillard,2019,668,8,94,770,84
+0.8713307241,119,Thunderhead,Dollywood,United States,Great Coasters International,2004,887,7,128,1022,270
+0.8708815672,120,Raptor,Cedar Point,United States,Bolliger & Mabillard,1994,976,4,143,1123,502
+0.8708133971,121,Do-Dodonpa,Fuji-Q Highland,Japan,S&S Sansei Technologies,2001,536,20,71,627,35
+0.8682364729,122,Raging Bull,Six Flags Great America,United States,Bolliger & Mabillard,1999,864,5,129,998,192
+0.8672131148,123,Mindbender,Galaxyland Amusement Park,Canada,Schwarzkopf,1985,261,7,37,305,8
+0.8663522013,124,Mr. Freeze,Six Flags Over Texas,United States,Premier Rides,1998,820,13,121,954,130
+0.8658536585,125,Mega-Lite,Happy Valley Shanghai,China,Intamin,2009,103,7,13,123,9
+0.865805169,126,Hals-über-Kopf,Erlebnispark Tripsdrill,Germany,Vekoma,2020,863,16,127,1006,171
+0.8648393195,127,Stealth,Thorpe Park,United Kingdom,Intamin,2006,910,10,138,1058,436
+0.8644975288,128,SheiKra,Busch Gardens Tampa,United States,Bolliger & Mabillard,2005,1047,5,162,1214,397
+0.8639298893,129,Lost Gravity,Walibi Holland,Netherlands,Mack Rides,2016,931,11,142,1084,371
+0.8629489603,130,Superman el Último Escape,Six Flags Mexico,Mexico,Morgan,2004,450,13,66,529,22
+0.8624067164,131,Intimidator,Carowinds,United States,Bolliger & Mabillard,2010,920,9,143,1072,268
+0.8614130435,132,Banshee,Kings Island,United States,Bolliger & Mabillard,2014,946,10,148,1104,373
+0.8612593383,133,Mr. Freeze Reverse Blast,Six Flags St. Louis,United States,Premier Rides,1998,802,10,125,937,127
+0.8592736706,134,Maxx Force,Six Flags Great America,United States,S&S Sansei Technologies,2019,656,13,102,771,131
+0.8591703057,135,Kawasemi,Tobu Zoo Park,Japan,Intamin,2008,385,17,56,458,11
+0.8563074353,136,Cheetah Hunt,Busch Gardens Tampa,United States,Intamin,2011,1019,12,166,1197,409
+0.8548085901,137,Legend,Holiday World,United States,Custom Coasters International,2000,909,13,149,1071,210
+0.8534946237,138,Texas Stingray,SeaWorld San Antonio,United States,Great Coasters International,2020,630,10,104,744,62
+0.852674524,139,Beast,Kings Island,United States,Kings Island,1979,935,11,157,1103,368
+0.8494152047,140,Full Throttle,Six Flags Magic Mountain,United States,Premier Rides,2013,869,5,152,1026,247
+0.847020934,141,Rampage,Alabama Adventure & Splash Adventure,United States,Custom Coasters International,1998,521,10,90,621,20
+0.8458737864,142,Steel Curtain,Kennywood,United States,S&S Sansei Technologies,2019,692,10,122,824,150
+0.8427230047,143,Griffon,Busch Gardens Williamsburg,United States,Bolliger & Mabillard,2007,891,13,161,1065,279
+0.8423423423,144,Star Trek: Operation Enterprise,Movie Park Germany,Germany,Mack Rides,2017,836,11,152,999,213
+0.8403582719,145,Superman - Ride of Steel,Six Flags America,United States,Intamin,2000,792,11,146,949,162
+0.8402317881,146,Kraken,SeaWorld Orlando,United States,Bolliger & Mabillard,2000,1010,10,188,1208,363
+0.840218712,147,Ride of Steel,Six Flags Darien Lake,United States,Intamin,1999,687,9,127,823,83
+0.8391442155,148,Goliath,La Ronde,Canada,Bolliger & Mabillard,2006,525,9,97,631,44
+0.8371783496,149,Gatekeeper,Cedar Point,United States,Bolliger & Mabillard,2013,938,11,178,1127,473
+0.8368336026,150,Steel Dragon 2000,Nagashima Spa Land,Japan,Morgan,2000,508,20,91,619,31
+0.8346980553,151,Rutschebanen,Tivoli Gardens,Denmark,L.A. Thompson Scenic Railway Company,1914,803,25,149,977,99
+0.8346590909,152,Superman Krypton Coaster,Six Flags Fiesta Texas,United States,Bolliger & Mabillard,2000,730,9,141,880,135
+0.8341511286,153,Flug der Dämonen,Heide Park Resort,Germany,Bolliger & Mabillard,2014,845,10,164,1019,214
+0.834148728,154,Fahrenheit,Hersheypark,United States,Intamin,2008,846,13,163,1022,284
+0.8333333333,155,Swarm,Thorpe Park,United Kingdom,Bolliger & Mabillard,2012,863,14,167,1044,447
+0.8308227115,156,Batman: Arkham Asylum,Parque Warner Madrid,Spain,Bolliger & Mabillard,2002,709,16,138,863,53
+0.830529857,157,Revenge of the Mummy,Universal Studios Florida,United States,Premier Rides,2004,982,11,196,1189,402
+0.8286147624,158,Batman The Ride,Six Flags Great America,United States,Bolliger & Mabillard,1992,814,11,164,989,157
+0.8270321361,159,Olympia Looping,Travelling,Travelling,Schwarzkopf,1989,863,24,171,1058,182
+0.824828263,160,Great Bear,Hersheypark,United States,Bolliger & Mabillard,1998,836,9,174,1019,288
+0.8241989882,161,Expedition Everest,Walt Disney World - Disney's Animal Kingdom,United States,Vekoma,2006,969,17,200,1186,458
+0.8240740741,162,Cyclone,Luna Park,United States,Harry Baker,1927,834,23,169,1026,98
+0.8221202854,163,HangTime,Knott's Berry Farm,United States,Gerstlauer,2018,800,13,168,981,166
+0.8213610586,164,Raven,Holiday World,United States,Custom Coasters International,1995,863,12,183,1058,205
+0.8193791157,165,Dragon Khan,PortAventura Park,Spain,Bolliger & Mabillard,1995,863,16,184,1063,252
+0.8193396226,166,Joris en de Draak (Vuur),Efteling,Netherlands,Great Coasters International,2010,859,19,182,1060,333
+0.8171981777,167,Superman / la Atracción de Acero,Parque Warner Madrid,Spain,Bolliger & Mabillard,2002,702,31,145,878,58
+0.8168469861,168,Takabisha,Fuji-Q Highland,Japan,Gerstlauer,2011,518,21,108,647,37
+0.8147969052,169,Joris en de Draak (Water),Efteling,Netherlands,Great Coasters International,2010,835,15,184,1034,345
+0.8146453089,170,Powder Keg: A Blast in the Wilderness,Silver Dollar City,United States,S&S Sansei Technologies,2004,709,6,159,874,133
+0.8136439268,171,GaleForce,Playland's Castaway Cove,United States,S&S Sansei Technologies,2017,484,10,107,601,46
+0.811746988,172,Mystic,Walibi Rhône-Alpes,France,Gerstlauer,2019,267,5,60,332,44
+0.8115423902,173,Wicker Man,Alton Towers,United Kingdom,Great Coasters International,2018,786,17,176,979,453
+0.8081113801,174,Valkyria,Liseberg,Sweden,Bolliger & Mabillard,2018,657,21,148,826,114
+0.8048533873,175,Talon,Dorney Park & Wildwater Kingdom,United States,Bolliger & Mabillard,2001,792,8,189,989,174
+0.8044164038,176,Tremors,Silverwood Theme Park,United States,Custom Coasters International,1999,503,14,117,634,31
+0.8031341822,177,Dominator,Kings Dominion,United States,Bolliger & Mabillard,2000,813,14,194,1021,240
+0.802532833,178,Baron 1898,Efteling,Netherlands,Bolliger & Mabillard,2015,844,23,199,1066,394
+0.8025210084,179,Medusa,Six Flags Discovery Kingdom,United States,Bolliger & Mabillard,2000,757,14,181,952,86
+0.8024911032,180,Medusa,Six Flags Great Adventure,United States,Bolliger & Mabillard,1999,899,6,219,1124,254
+0.8023923445,181,Verbolten,Busch Gardens Williamsburg,United States,Zierer,2012,831,15,199,1045,261
+0.8005464481,182,Cornball Express,Indiana Beach,United States,Custom Coasters International,2001,725,15,175,915,97
+0.8002309469,183,Steel Eel,SeaWorld San Antonio,United States,Morgan,1999,688,10,168,866,90
+0.799904943,184,Furius Baco,PortAventura Park,Spain,Intamin,2007,829,25,198,1052,256
+0.7989371125,185,Batman The Ride,Six Flags Great Adventure,United States,Bolliger & Mabillard,1993,898,8,223,1129,253
+0.7979515829,186,Velociraptor,IMG Worlds of Adventure,United Arab Emirates,Mack Rides,2016,420,17,100,537,14
+0.7972085386,187,Monster,Gröna Lund,Sweden,Bolliger & Mabillard,2021,479,13,117,609,55
+0.797005988,188,Juvelen,Djurs Sommerland,Denmark,Intamin,2013,653,25,157,835,56
+0.7959280303,189,Valravn,Cedar Point,United States,Bolliger & Mabillard,2016,835,11,210,1056,426
+0.7941176471,190,Hollywood Dream: The Ride,Universal Studios Japan,Japan,Bolliger & Mabillard,2007,450,18,110,578,36
+0.793989071,191,Wildfire,Silver Dollar City,United States,Bolliger & Mabillard,2001,720,13,182,915,136
+0.7923913043,192,Cú Chulainn,Emerald Park,Ireland,Gravity Group,2015,356,17,87,460,29
+0.7922497309,193,Flight Deck,California's Great America,United States,Bolliger & Mabillard,1993,728,16,185,929,101
+0.7920187793,194,Nemesis Inferno,Thorpe Park,United Kingdom,Bolliger & Mabillard,2003,838,11,216,1065,429
+0.7902702703,195,Batman The Ride,Six Flags St. Louis,United States,Bolliger & Mabillard,1995,725,12,188,925,110
+0.7891566265,196,Pyrenees,Parque Espana-Shima Spain Village,Japan,Bolliger & Mabillard,1997,192,9,48,249,11
+0.7887485649,197,American Thunder,Six Flags St. Louis,United States,Great Coasters International,2008,681,12,178,871,108
+0.7872763419,198,Mine Blower,Fun Spot America Kissimmee,United States,Gravity Group,2017,777,30,199,1006,183
+0.786686103,199,Apocalypse the Ride,Six Flags Magic Mountain,United States,Great Coasters International,2009,802,15,212,1029,192
+0.7860385925,200,Tonnerre 2 Zeus,Parc Astérix,France,Custom Coasters International,1997,679,27,175,881,147
+0.785380117,201,Raptor,Gardaland,Italy,Bolliger & Mabillard,2011,662,19,174,855,142
+0.785115304,202,Shock Wave,Six Flags Over Texas,United States,Schwarzkopf,1978,740,18,196,954,119
+0.7838125666,203,Batman The Ride,Six Flags Over Georgia,United States,Bolliger & Mabillard,1997,728,16,195,939,158
+0.782937365,204,Ice Breaker,SeaWorld Orlando,United States,Premier Rides,2022,719,12,195,926,165
+0.7829162133,205,Twister,Knoebels Amusement Resort,United States,Knoebels,1999,716,7,196,919,171
+0.7827140549,206,El Toro,Freizeitpark Plohn,Germany,Great Coasters International,2009,470,29,120,619,53
+0.7818991098,207,Anubis: The Ride,Plopsaland De Panne,Belgium,Gerstlauer,2009,778,25,208,1011,273
+0.7816635161,208,Batman The Ride,Six Flags Magic Mountain,United States,Bolliger & Mabillard,1994,821,12,225,1058,215
+0.78117506,209,Oblivion - The Black Hole,Gardaland,Italy,Bolliger & Mabillard,2015,644,15,175,834,129
+0.780945758,210,Thunder Dolphin,Tokyo Dome City,Japan,Intamin,2003,545,33,141,719,35
+0.7806580259,211,Steel Force,Dorney Park & Wildwater Kingdom,United States,Morgan,1997,775,16,212,1003,186
+0.7795698925,212,Riddler Mindbender,Six Flags Over Georgia,United States,Schwarzkopf,1978,717,16,197,930,135
+0.7793696275,213,Tennessee Tornado,Dollywood,United States,Arrow Dynamics,1999,809,14,224,1047,238
+0.7787958115,214,Wild Train,Fantasiana,Austria,Pax Company,2005,285,25,72,382,13
+0.778779473,215,Gold Rush,Attractiepark Slagharen,Netherlands,Gerstlauer,2017,553,17,151,721,119
+0.7785923754,216,Sik,Flamingo Land,United Kingdom,Intamin,2012,262,7,72,341,66
+0.776849642,217,West Coast Racers,Six Flags Magic Mountain,United States,Premier Rides,2020,643,16,179,838,164
+0.7765399738,218,TMNT Shellraiser,Nickelodeon Universe Theme Park,United States,Gerstlauer,2019,586,13,164,763,70
+0.7752380952,219,Dragon Gliders,Motiongate,United Arab Emirates,Mack Rides,2017,398,18,109,525,13
+0.7707865169,220,Switchback,ZDT'S Amusement Park,United States,Gravity Group,2015,678,16,196,890,61
+0.7688338493,221,Lisebergbanan,Liseberg,Sweden,Zierer,1987,735,20,214,969,117
+0.7656882591,222,Thunderbolt,Kennywood,United States,Andy Vettel,1924,749,15,224,988,156
+0.7650793651,223,Batman The Ride,Six Flags Over Texas,United States,Bolliger & Mabillard,1999,715,16,214,945,115
+0.7641334569,224,Silver Bullet,Knott's Berry Farm,United States,Bolliger & Mabillard,2004,815,19,245,1079,203
+0.7626217892,225,Big Thunder Mountain,Disneyland Paris - Disneyland Park,France,Vekoma,1992,850,22,257,1129,383
+0.7621621622,226,Aftershock,Silverwood Theme Park,United States,Vekoma,2008,418,10,127,555,30
+0.7608024691,227,Formuła,Energylandia,Poland,Vekoma,2016,733,13,226,972,183
+0.7573221757,228,TRON Lightcycle Power Run,Shanghai Disneyland,China,Vekoma,2016,175,12,52,239,20
+0.7568226121,229,Jack Rabbit,Kennywood,United States,John Miller,1920,768,17,241,1026,187
+0.7561403509,230,Mamba,Worlds of Fun,United States,Morgan,1998,639,15,201,855,77
+0.7543778802,231,Goliath,Six Flags Magic Mountain,United States,Giovanola,2000,813,11,261,1085,239
+0.7539432177,232,Titan,Six Flags Over Texas,United States,Giovanola,2001,710,14,227,951,120
+0.7535753575,233,Great White,SeaWorld San Antonio,United States,Bolliger & Mabillard,1997,677,16,216,909,73
+0.7530573848,234,White Lightning,Fun Spot America Orlando,United States,Great Coasters International,2013,793,15,255,1063,152
+0.7516611296,235,Dynamite,Freizeitpark Plohn,Germany,Mack Rides,2019,444,17,141,602,49
+0.7488728584,236,Star Wars Hyperspace Mountain: Rebel Mission,Disneyland Paris - Disneyland Park,France,Vekoma,1995,822,17,270,1109,290
+0.7483022071,237,Winja's Fear,Phantasialand,Germany,Maurer,2002,874,15,289,1178,421
+0.7467866324,238,Lynet,Fårup Sommerland,Denmark,Gerstlauer,2008,572,18,188,778,45
+0.7460595447,239,Speed Monster,TusenFryd,Norway,Intamin,2006,416,20,135,571,20
+0.7456140351,240,Dr. Diabolical's Cliffhanger,Six Flags Fiesta Texas,United States,Bolliger & Mabillard,2022,335,10,111,456,25
+0.7455048409,241,Kentucky Rumbler,Beech Bend,United States,Great Coasters International,2006,537,4,182,723,39
+0.7441364606,242,Goliath,Six Flags Fiesta Texas,United States,Bolliger & Mabillard,1995,691,14,233,938,112
+0.7435304991,243,Desert Race,Heide Park Resort,Germany,Intamin,2007,798,13,271,1082,201
+0.7434640523,244,X-Flight,Six Flags Great America,United States,Bolliger & Mabillard,2012,680,5,233,918,150
+0.7427597956,245,Colorado Adventure,Phantasialand,Germany,Vekoma,1996,866,12,296,1174,464
+0.7422003284,246,Fujiyama,Fuji-Q Highland,Japan,Togo,1996,437,30,142,609,38
+0.741307947,247,"Hollywood Rip, Ride, Rockit",Universal Studios Florida,United States,Maurer,2009,885,21,302,1208,418
+0.7412467976,248,Winja's Force,Phantasialand,Germany,Maurer,2002,862,12,297,1171,388
+0.7409012132,249,Vampire,La Ronde,Canada,Bolliger & Mabillard,2002,421,13,143,577,34
+0.7400943396,250,Incredicoaster,Disney California Adventure Park,United States,Intamin,2001,776,17,267,1060,209
+0.7393518519,251,Krake,Heide Park Resort,Germany,Bolliger & Mabillard,2011,787,23,270,1080,203
+0.7384393064,252,Sky Scream,Holiday Park,Germany,Premier Rides,2014,756,21,261,1038,159
+0.7383828996,253,Space Mountain,Disneyland,United States,Dynamic Attractions,2005,788,13,275,1076,232
+0.7380497132,254,Riddler's Revenge,Six Flags Magic Mountain,United States,Bolliger & Mabillard,1998,766,12,268,1046,209
+0.7376279863,255,Harry Potter and the Escape from Gringotts,Universal Studios Florida,United States,Intamin,2014,857,15,300,1172,394
+0.7376,256,Stunt Fall,Parque Warner Madrid,Spain,Vekoma,2002,453,16,156,625,46
+0.7361932939,257,Lightning Racer (Thunder),Hersheypark,United States,Great Coasters International,2000,736,21,257,1014,242
+0.7361502347,258,Superman - Ultimate Flight,Six Flags Great Adventure,United States,Bolliger & Mabillard,2003,774,20,271,1065,229
+0.7351712615,259,Rock 'n' Roller Coaster,Walt Disney World - Disney's Hollywood Studios,United States,Vekoma,1999,871,18,308,1197,446
+0.7350054526,260,Jetline,Gröna Lund,Sweden,Zierer,1988,659,30,228,917,77
+0.7324777887,261,Lightning Racer (Lightning),Hersheypark,United States,Great Coasters International,2000,730,24,259,1013,243
+0.7313868613,262,Sandy's Blasting Bronco,Nickelodeon Universe Theme Park,United States,Intamin,2020,496,10,179,685,46
+0.7307692308,263,Thunderbird,PowerLand,Finland,Great Coasters International,2006,310,7,112,429,20
+0.7288428325,264,Madagascar Mad Pursuit,Motiongate,United Arab Emirates,Gerstlauer,2017,411,22,146,579,21
+0.7261116367,265,Wild Eagle,Dollywood,United States,Bolliger & Mabillard,2012,758,19,280,1057,227
+0.7258953168,266,Atlantis Adventure,Lotte World,South Korea,Intamin,2003,253,21,89,363,16
+0.7255266419,267,Wooden Warrior,Quassy Amusement Park,United States,Gravity Group,2011,577,17,213,807,48
+0.7253765933,268,Patriot,Worlds of Fun,United States,Bolliger & Mabillard,2006,619,14,230,863,77
+0.7240990991,269,Manta,SeaWorld San Diego,United States,Mack Rides,2012,630,26,232,888,83
+0.7236453202,270,Van Helsing's Factory,Movie Park Germany,Germany,Gerstlauer,2011,724,21,270,1015,185
+0.7233632863,271,Megafobia,Oakwood Theme Park,United Kingdom,Custom Coasters International,1996,555,17,207,779,98
+0.7231595092,272,Tornado,Särkänniemi Amusement Park,Finland,Intamin,2001,460,23,169,652,26
+0.7227488152,273,Superman Escape,Warner Bros. Movie World,Australia,Intamin,2005,149,7,55,211,37
+0.7224880383,274,Saw - The Ride,Thorpe Park,United Kingdom,Gerstlauer,2009,743,24,278,1045,406
+0.7219101124,275,Oblivion,Alton Towers,United Kingdom,Bolliger & Mabillard,1998,761,20,287,1068,466
+0.7210743802,276,Superman - Ultimate Flight,Six Flags Great America,United States,Bolliger & Mabillard,2003,691,14,263,968,147
+0.7208835341,277,Viper,Six Flags Great America,United States,Six Flags,1995,705,26,265,996,155
+0.7194312796,278,Galactica,Alton Towers,United Kingdom,Bolliger & Mabillard,2002,753,12,290,1055,476
+0.7193932828,279,Boss,Six Flags St. Louis,United States,Custom Coasters International,2000,653,22,248,923,117
+0.7177254098,280,Hydra the Revenge,Dorney Park & Wildwater Kingdom,United States,Bolliger & Mabillard,2005,694,13,269,976,160
+0.7174556213,281,Heidi The Ride,Plopsaland De Panne,Belgium,Great Coasters International,2017,716,23,275,1014,237
+0.7170119956,282,Twister,Gröna Lund,Sweden,Gravity Group,2011,646,23,248,917,66
+0.7166405024,283,Timber Terror,Silverwood Theme Park,United States,Custom Coasters International,1996,450,13,174,637,31
+0.7152928416,284,Superman - Ultimate Flight,Six Flags Over Georgia,United States,Bolliger & Mabillard,2002,654,11,257,922,146
+0.7151639344,285,Psyké Underground,Walibi Belgium,Belgium,Schwarzkopf,1982,682,32,262,976,215
+0.7099767981,286,Wild Thing,Valleyfair!,United States,Morgan,1996,604,16,242,862,71
+0.708131068,287,Giant Dipper,Santa Cruz Beach Boardwalk,United States,Frederick Church,1924,574,19,231,824,73
+0.7059765208,288,Pulsar,Walibi Belgium,Belgium,Mack Rides,2016,651,21,265,937,206
+0.7053191489,289,Hair Raiser,Ocean Park Hong Kong,China,Bolliger & Mabillard,2011,323,17,130,470,23
+0.700729927,290,Dæmonen,Tivoli Gardens,Denmark,Bolliger & Mabillard,2004,660,24,275,959,93
+0.697327044,291,DrageKongen,Djurs Sommerland,Denmark,Intamin,2017,434,19,183,636,41
+0.6966845878,292,Gemini (Blue),Cedar Point,United States,Arrow Dynamics,1978,768,19,329,1116,379
+0.6963162624,293,Rougarou,Cedar Point,United States,Bolliger & Mabillard,1996,762,26,325,1113,413
+0.6958874459,294,Oscar's Wacky Taxi,Sesame Place,United States,Gravity Group,2018,316,11,135,462,17
+0.6957345972,295,Mystery Mine,Dollywood,United States,Gerstlauer,2007,725,18,312,1055,228
+0.6952954048,296,Movie Park Studios,Movie Park Germany,Germany,Intamin,2021,620,31,263,914,125
+0.6949058693,297,Zeus,Mt. Olympus Water & Theme Park,United States,Custom Coasters International,1997,617,21,265,903,73
+0.6944444444,298,Wood Express,Parc Saint Paul,France,Gravity Group,2018,255,15,108,378,17
+0.69243604,299,Cyclops,Mt. Olympus Water & Theme Park,United States,Custom Coasters International,1995,608,29,262,899,66
+0.6922731357,300,Gemini (Red),Cedar Point,United States,Arrow Dynamics,1978,759,23,331,1113,387
+0.6921992481,301,Rita,Alton Towers,United Kingdom,Intamin,2005,727,19,318,1064,466
+0.6903341289,302,Pégase Express,Parc Astérix,France,Gerstlauer,2017,568,21,249,838,113
+0.6888145315,303,Loch Ness Monster,Busch Gardens Williamsburg,United States,Arrow Dynamics,1978,710,21,315,1046,257
+0.6876208897,304,Shock,MagicLand,Italy,Maurer,2011,347,17,153,517,13
+0.6875598086,305,Tigris,Busch Gardens Tampa,United States,Premier Rides,2019,709,19,317,1045,241
+0.6855828221,306,Battlestar Galactica Cylon,Universal Studios Singapore,Singapore,Vekoma,2010,214,19,93,326,28
+0.682766191,307,Lost Coaster of Superstition Mountain,Indiana Beach,United States,Custom Coasters International,2002,610,24,277,911,80
+0.6824074074,308,Diabolik,Movieland Park,Italy,Vekoma,1999,358,21,161,540,33
+0.6813125695,309,Sky Rocket,Kennywood,United States,Premier Rides,2010,601,23,275,899,154
+0.6796187683,310,Zippin Pippin,Bay Beach Amusement Park,United States,Gravity Group,2011,454,19,209,682,36
+0.6784172662,311,Emperor,SeaWorld San Diego,United States,Bolliger & Mabillard,2022,462,19,214,695,43
+0.6775114155,312,Superman Ultimate Flight,Six Flags Discovery Kingdom,United States,Premier Rides,2012,582,23,271,876,76
+0.6772983114,313,Bat,Kings Island,United States,Arrow Dynamics,1993,716,12,338,1066,287
+0.6771978022,314,Flight of Fear,Kings Island,United States,Premier Rides,1996,730,19,343,1092,295
+0.6769911504,315,Vortex,Canada's Wonderland,Canada,Arrow Dynamics,1991,600,24,280,904,106
+0.6764985728,316,Dwervelwind,Toverland,Netherlands,Mack Rides,2012,702,18,331,1051,279
+0.6759410802,317,Comet,Great Escape,United States,Philadelphia Toboggan Coasters,1994,407,12,192,611,58
+0.6756373938,318,Vliegende Hollander,Efteling,Netherlands,KumbaK,2007,704,23,332,1059,344
+0.6738241309,319,Batman - The Dark Knight,Six Flags New England,United States,Bolliger & Mabillard,2002,651,16,311,978,131
+0.6736214605,320,Wicked,Lagoon,United States,Zierer,2007,446,12,213,671,50
+0.6734213007,321,Thirteen,Alton Towers,United Kingdom,Intamin,2010,700,29,332,1061,459
+0.6726649529,322,Space Mountain (Omega),Walt Disney World - Magic Kingdom,United States,Walt Disney,1975,773,24,370,1167,352
+0.6724537037,323,Big Grizzly Mountain Runaway Mine Cars,Hong Kong Disneyland,China,Vekoma,2012,281,19,132,432,24
+0.6714614499,324,Kentucky Flyer,Kentucky Kingdom,United States,Gravity Group,2019,573,21,275,869,133
+0.6708648195,325,Space Mountain (Alpha),Walt Disney World - Magic Kingdom,United States,Walt Disney,1975,789,20,382,1191,412
+0.6698440208,326,Hype,Särkänniemi Amusement Park,Finland,Premier Rides,2017,383,7,187,577,24
+0.6692047377,327,Excalibur,Funtown Splashtown U.S.A.,United States,Custom Coasters International,1998,382,27,182,591,25
+0.6682525952,328,Eurosat - CanCan Coaster,Europa Park,Germany,Mack Rides,1989,759,27,370,1156,303
+0.6675302245,329,Capitol Bullet Train,Motiongate,United Arab Emirates,Mack Rides,2017,369,35,175,579,19
+0.6661002549,330,Euro Mir,Europa Park,Germany,Mack Rides,1997,772,24,381,1177,327
+0.6660482375,331,Arthur,Europa Park,Germany,Mack Rides,2014,707,22,349,1078,265
+0.6649338374,332,Scream!,Six Flags Magic Mountain,United States,Bolliger & Mabillard,2003,694,19,345,1058,205
+0.6648460775,333,Flight of Fear,Kings Dominion,United States,Premier Rides,1996,659,21,327,1007,205
+0.6646455224,334,Big Thunder Mountain Railroad,Disneyland,United States,Dynamic Attractions,1979,703,19,350,1072,220
+0.6644981413,335,Acrobat,Nagashima Spa Land,Japan,Bolliger & Mabillard,2015,345,25,168,538,22
+0.664221219,336,Dragon's Fury,Chessington World of Adventures,United Kingdom,Maurer,2004,578,21,287,886,244
+0.662540366,337,Georgia Scorcher,Six Flags Over Georgia,United States,Bolliger & Mabillard,1999,608,15,306,929,145
+0.6625282167,338,Freischutz,Bayern Park,Germany,Maurer,2011,282,23,138,443,17
+0.6613149847,339,Avengers Assemble: Flight Force,Disneyland Paris - Walt Disney Studios Park,France,Vekoma,2002,427,11,216,654,89
+0.6592039801,340,Altair,Cinecitta World,Italy,Intamin,2014,256,18,128,402,15
+0.6584101382,341,Tarántula,Parque de Atracciones de Madrid,Spain,Maurer,2005,554,35,279,868,46
+0.6577181208,342,Tornado,Bakken,Denmark,Intamin,2009,557,62,275,894,55
+0.6570996979,343,Tantrum,Six Flags Darien Lake,United States,Gerstlauer,2018,426,18,218,662,47
+0.6570652174,344,Poltergeist,Six Flags Fiesta Texas,United States,Premier Rides,1999,595,19,306,920,103
+0.6567164179,345,Revenge of the Mummy,Universal Studios Singapore,Singapore,Premier Rides,2010,257,14,131,402,27
+0.6558854719,346,Revenge of the Mummy,Universal Studios Hollywood,United States,Premier Rides,2004,603,31,309,943,134
+0.6541828794,347,Nessie,Hansa Park,Germany,Schwarzkopf,1980,664,17,347,1028,168
+0.654,348,Big One,Blackpool Pleasure Beach,United Kingdom,Arrow Dynamics,1994,640,28,332,1000,303
+0.6533646322,349,Great White,Morey's Piers,United States,Custom Coasters International,1996,414,7,218,639,39
+0.6533559898,350,Big Thunder Mountain Railroad,Walt Disney World - Magic Kingdom,United States,Disney,1980,761,16,400,1177,462
+0.6506024096,351,Yukon Quad,Le Pal,France,Intamin,2018,106,4,56,166,26
+0.6497206704,352,El Loco,Adventuredome,United States,S&S Sansei Technologies,2014,572,19,304,895,68
+0.6493710692,353,Desperado,Buffalo Bill's Resort & Casino,United States,Arrow Dynamics,1994,405,16,215,636,23
+0.6493435449,354,Joker's Jinx,Six Flags America,United States,Premier Rides,1999,589,9,316,914,128
+0.6460674157,355,Phobia Phear Coaster,Lake Compounce,United States,Premier Rides,2016,510,15,276,801,66
+0.6456386293,356,Wakala,Bellewaerde,Belgium,Gerstlauer,2020,407,15,220,642,50
+0.6455026455,357,InvadR,Busch Gardens Williamsburg,United States,Great Coasters International,2017,601,18,326,945,209
+0.6439169139,358,Pitts Special,PowerLand,Finland,Gerstlauer,2020,211,12,114,337,21
+0.6427104723,359,Heise Fahrt,Wild- und Freizeitpark Klotten/Cochem,Germany,Gerstlauer,2004,306,14,167,487,29
+0.6400832178,360,Speed: No Limits,Oakwood Theme Park,United Kingdom,Gerstlauer,2006,446,31,244,721,83
+0.64,361,Triops,Bagatelle,France,Vekoma,1997,310,20,170,500,16
+0.6385681293,362,Teststrecke,Travelling,Travelling,Schwarzkopf,1981,272,9,152,433,23
+0.6370192308,363,Dare Devil Dive,Six Flags Over Georgia,United States,Gerstlauer,2011,523,14,295,832,135
+0.6365517241,364,Flash: Vertical Velocity,Six Flags Discovery Kingdom,United States,Intamin,2001,455,13,257,725,41
+0.6364247312,365,Vuoristorata,Linnanmäki,Finland,Valdemar Lebach,1951,457,33,254,744,34
+0.6361788618,366,Timber Drop,Fraispertuis City,France,S&S Sansei Technologies,2011,304,18,170,492,21
+0.6350059737,367,Steel Venom,Valleyfair!,United States,Intamin,2003,523,17,297,837,56
+0.6329617834,368,Space Mountain,Tokyo Disneyland,Japan,Walt Disney,1983,383,29,216,628,24
+0.6326203209,369,American Eagle (Red),Six Flags Great America,United States,Intamin,1981,583,17,335,935,119
+0.6319444444,370,Xpress: Platform 13,Walibi Holland,Netherlands,Vekoma,2000,670,25,385,1080,310
+0.6310861423,371,Han-Katten,BonBon-Land,Denmark,Gerstlauer,2007,326,22,186,534,18
+0.6305389222,372,Impulse,Knoebels Amusement Resort,United States,Zierer,2015,519,15,301,835,122
+0.6298882682,373,Crush's Coaster,Disneyland Paris - Walt Disney Studios Park,France,Maurer,2007,666,21,387,1074,239
+0.62972167,374,Racer (Left),Kennywood,United States,John Miller,1927,625,17,364,1006,138
+0.6281690141,375,Bobbahn,Heide Park Resort,Germany,Mack Rides,1994,654,30,381,1065,160
+0.6278962002,376,Viper,Six Flags Magic Mountain,United States,Arrow Dynamics,1990,660,35,384,1079,217
+0.6268328446,377,Colossus the Fire Dragon,Lagoon,United States,Schwarzkopf,1981,421,13,248,682,51
+0.6266937669,378,Orkanen,Fårup Sommerland,Denmark,Vekoma,2013,448,29,261,738,38
+0.6263157895,379,Timber,Walibi Rhône-Alpes,France,Gravity Group,2016,234,8,138,380,43
+0.6247619048,380,Firechaser Express,Dollywood,United States,Gerstlauer,2014,645,22,383,1050,216
+0.6246261216,381,Tempesto,Busch Gardens Williamsburg,United States,Premier Rides,2015,616,21,366,1003,187
+0.6243961353,382,New Mexico Rattler,Cliff's Amusement Park,United States,Custom Coasters International,2002,245,27,142,414,7
+0.6243154436,383,Screamin' Eagle,Six Flags St. Louis,United States,Philadelphia Toboggan Coasters,1976,560,20,333,913,109
+0.6236897275,384,Storm Chaser,Paultons Park,United Kingdom,Mack Rides,2021,294,7,176,477,96
+0.623069001,385,Superman: Escape from Krypton,Six Flags Magic Mountain,United States,Intamin,1997,594,22,355,971,183
+0.6223809524,386,Vogel Rok,Efteling,Netherlands,Vekoma,1998,640,27,383,1050,306
+0.6214511041,387,American Eagle (Blue),Six Flags Great America,United States,Intamin,1981,582,18,351,951,127
+0.62,388,Bandit,Yomiuriland,Japan,Togo,1988,297,26,177,500,12
+0.6169438669,389,Possessed,Dorney Park & Wildwater Kingdom,United States,Intamin,2000,586,15,361,962,133
+0.6164383562,390,Wilkolak,Majaland Kownaty,Poland,Great Coasters International,2019,173,14,105,292,8
+0.6163949275,391,Cobra's Curse,Busch Gardens Tampa,United States,Mack Rides,2016,673,15,416,1104,278
+0.6154696133,392,Trace Du Hourra,Parc Astérix,France,Mack Rides,2001,547,20,338,905,112
+0.6153402537,393,Abismo,Parque de Atracciones de Madrid,Spain,Maurer,2006,515,37,315,867,48
+0.6150990099,394,Dragon Roller Coaster,Energylandia,Poland,Vekoma,2015,485,24,299,808,116
+0.6147695202,395,Ninja,Six Flags Magic Mountain,United States,Arrow Dynamics,1988,645,17,401,1063,192
+0.6134235172,396,Vertical Velocity,Six Flags Great America,United States,Intamin,2001,580,19,362,961,129
+0.6108768971,397,Scorpion,Busch Gardens Tampa,United States,Schwarzkopf,1980,714,21,451,1186,302
+0.6107142857,398,Racer (Right),Kennywood,United States,John Miller,1927,589,19,372,980,131
+0.6098376313,399,Matterhorn Bobsleds (Left),Disneyland,United States,Arrow Dynamics,1959,628,21,398,1047,170
+0.6075268817,400,Great Nor'Easter,Morey's Piers,United States,Vekoma,1995,383,25,243,651,36
+0.6071428571,401,Matterhorn Bobsleds (Right),Disneyland,United States,Arrow Dynamics,1959,601,22,385,1008,161
+0.6050561798,402,Batwing,Six Flags America,United States,Vekoma,2001,533,11,346,890,116
+0.6041456016,403,Comet,Hersheypark,United States,Philadelphia Toboggan Coasters,1946,587,21,381,989,241
+0.6012168142,404,Wild One,Six Flags America,United States,Philadelphia Toboggan Coasters,1917,534,19,351,904,118
+0.6005639098,405,Racer (Red),Kings Island,United States,Philadelphia Toboggan Coasters,1972,627,24,413,1064,250
+0.6002785515,406,Inferno,Cinecitta World,Italy,Intamin,2014,210,11,138,359,11
+0.5982142857,407,Krampus Expedition,Nigloland,France,Mack Rides,2021,165,5,110,280,33
+0.5966069746,408,Racer (Blue),Kings Island,United States,Philadelphia Toboggan Coasters,1972,620,26,415,1061,256
+0.5949506037,409,Steel Hawg,Indiana Beach,United States,S&S Sansei Technologies,2008,531,22,358,911,85
+0.5943925234,410,Ultimate,Lightwater Valley,United Kingdom,British Rail,1991,307,22,206,535,45
+0.5929614874,411,Falken,Fårup Sommerland,Denmark,S&S Sansei Technologies,2004,433,27,293,753,39
+0.5913091309,412,Tiki-Waka,Walibi Belgium,Belgium,Gerstlauer,2018,529,17,363,909,188
+0.5903954802,413,Safari Blitz,Serengeti Park,Germany,Stein,2017,100,9,68,177,8
+0.5898734177,414,Formule X,Drievliet Family Park,Netherlands,Maurer,2007,449,34,307,790,57
+0.5898148148,415,New Revolution,Six Flags Magic Mountain,United States,Schwarzkopf,1976,627,20,433,1080,197
+0.5895522388,416,Nighthawk,Carowinds,United States,Vekoma,2000,580,25,400,1005,156
+0.5889705882,417,Thor's Hammer,Djurs Sommerland,Denmark,Gerstlauer,2002,386,29,265,680,38
+0.5882352941,418,Roar-O-Saurus,Story Land,United States,Gravity Group,2014,165,10,114,289,15
+0.5849162011,419,SpongeBob SquarePants Rock Bottom Plunge,Nickelodeon Universe,United States,Gerstlauer,2008,515,17,363,895,88
+0.5845737483,420,Outlaw,Adventureland Iowa,United States,Custom Coasters International,1993,426,12,301,739,41
+0.5841633466,421,Racer 75 (North),Kings Dominion,United States,Philadelphia Toboggan Coasters,1975,576,21,407,1004,187
+0.5828111012,422,Blue Streak,Cedar Point,United States,Philadelphia Toboggan Coasters,1964,642,18,457,1117,405
+0.5821529745,423,Kumali,Flamingo Land,United Kingdom,Vekoma,2006,395,32,279,706,110
+0.58168028,424,Tornado,Parque de Atracciones de Madrid,Spain,Intamin,1999,483,31,343,857,42
+0.5813148789,425,Thunderation,Silver Dollar City,United States,Arrow Dynamics,1993,499,10,358,867,121
+0.5799711816,426,Big Thunder Mountain,Tokyo Disneyland,Japan,Disney,1987,388,29,277,694,29
+0.5798676749,427,Colossus,Thorpe Park,United Kingdom,Intamin,2002,598,31,429,1058,391
+0.5794590025,428,Journey to Atlantis,SeaWorld Orlando,United States,Mack Rides,1998,674,23,486,1183,248
+0.5792838875,429,Shockwave,Drayton Manor,United Kingdom,Intamin,1994,438,30,314,782,178
+0.5792563601,430,Swamp Fox,Family Kingdom Amusement Park,United States,Philadelphia Toboggan Coasters,1966,287,18,206,511,27
+0.5790598291,431,Rollin' Thunder,Tropic Falls Amusement Park,United States,Zamperla,2017,264,14,190,468,12
+0.5770156438,432,Electric Eel,SeaWorld San Diego,United States,Premier Rides,2018,467,25,339,831,62
+0.5769230769,433,Iron Shark,Galveston Island Historic Pleasure Pier,United States,Gerstlauer,2012,426,18,310,754,30
+0.5761316872,434,Silver Bullet,Frontier City,United States,Schwarzkopf,1978,412,16,301,729,26
+0.5734883721,435,Backlot Stunt Coaster,Kings Island,United States,Premier Rides,2005,608,17,450,1075,271
+0.5724637681,436,G'sengte Sau,Erlebnispark Tripsdrill,Germany,Gerstlauer,1998,582,21,432,1035,146
+0.5721493441,437,Racer 75 (South),Kings Dominion,United States,Philadelphia Toboggan Coasters,1975,555,24,412,991,161
+0.5707964602,438,Alpina Bahn,Travelling,Travelling,Schwarzkopf,1983,314,17,234,565,58
+0.5646203554,439,Millennium,Fantasy Island Lincolnshire,United Kingdom,Vekoma,1999,334,31,254,619,73
+0.5617048346,440,Flying Turns,Knoebels Amusement Resort,United States,Knoebels,2013,432,19,335,786,85
+0.5612668744,441,Grand National (Left),Blackpool Pleasure Beach,United Kingdom,Charles Paige,1935,519,43,401,963,241
+0.5610687023,442,Gesengte Sau,Wiener Prater,Austria,Gerstlauer,2020,143,8,111,262,31
+0.5606229143,443,Backlot Stunt Coaster,Canada's Wonderland,Canada,Premier Rides,2005,497,14,388,899,103
+0.560139165,444,Sooperdooperlooper,Hersheypark,United States,Schwarzkopf,1977,555,17,434,1006,239
+0.5596707819,445,Whizzer,Six Flags Great America,United States,Schwarzkopf,1976,534,20,418,972,139
+0.5576036866,446,Twist,Le Pal,France,Mack Rides,2011,116,10,91,217,24
+0.5574162679,447,Timber Wolf,Worlds of Fun,United States,Dinn Corporation,1989,458,16,362,836,70
+0.5571428571,448,Thunder Run,Kentucky Kingdom,United States,Dinn Corporation,1990,573,24,453,1050,159
+0.5566835871,449,Divertical,Mirabilandia,Italy,Intamin,2012,321,16,254,591,43
+0.5542949757,450,Muntanya Russa,Tibidabo,Spain,Vekoma,2008,330,24,263,617,33
+0.5541455161,451,Sidewinder,Elitch Gardens,United States,Arrow Dynamics,1980,318,19,254,591,23
+0.5541044776,452,Vild-Svinet,BonBon-Land,Denmark,Gerstlauer,2003,290,14,232,536,17
+0.5529411765,453,Tornado,Stricker's Grove,United States,Ralph Stricker,1993,273,18,219,510,26
+0.552097429,454,Mammut,Gardaland,Italy,Vekoma,2008,400,16,323,739,107
+0.5509989485,455,Grand National (Right),Blackpool Pleasure Beach,United Kingdom,Charles Paige,1935,508,32,411,951,228
+0.5508083141,456,Droomvlucht,Efteling,Netherlands,Translift,1993,228,21,184,433,87
+0.5502183406,457,Speed,Energylandia,Poland,Intamin,2018,493,22,401,916,128
+0.5497159091,458,Python,Efteling,Netherlands,Vekoma,1981,572,17,467,1056,317
+0.549132948,459,Mine Train Ulven,Bakken,Denmark,Intamin,1997,461,28,376,865,48
+0.5490654206,460,Seven Dwarves Mine Train,Walt Disney World - Magic Kingdom,United States,Vekoma,2014,578,19,473,1070,305
+0.54784689,461,Speed of Sound,Walibi Holland,Netherlands,Vekoma,2000,558,29,458,1045,273
+0.5466666667,462,Backlot Stunt Coaster,Kings Dominion,United States,Premier Rides,2006,526,14,435,975,208
+0.5464285714,463,Revolution,Blackpool Pleasure Beach,United Kingdom,Arrow Dynamics,1979,518,35,427,980,271
+0.5460893855,464,Adrenaline Peak,Oaks Amusement Park,United States,Gerstlauer,2018,187,17,154,358,7
+0.5460526316,465,Cobra,PowerLand,Finland,Vekoma,2005,201,13,166,380,15
+0.5455840456,466,Green Lantern,Six Flags Great Adventure,United States,Bolliger & Mabillard,1997,560,29,464,1053,203
+0.5445062587,467,Salama,Linnanmäki,Finland,Maurer,2008,376,31,312,719,31
+0.5443101712,468,Avalanche,Blackpool Pleasure Beach,United Kingdom,Mack Rides,1988,530,21,442,993,267
+0.5436602871,469,Vampire,Chessington World of Adventures,United Kingdom,Arrow Dynamics,1990,440,29,367,836,264
+0.5420560748,470,Dragon Mountain,Marineland Theme Park,Canada,Arrow Dynamics,1983,337,22,283,642,27
+0.5420560748,471,Typhoon,Bobbejaanland,Belgium,Gerstlauer,2004,453,22,381,856,145
+0.5419354839,472,Great American Scream Machine,Six Flags Over Georgia,United States,Roller Coaster Corporation of America,1973,497,14,419,930,140
+0.5419161677,473,Montanha Russa,Aquashow Family Park,Portugal,Mack Rides,2006,85,11,71,167,7
+0.540895813,474,Joker,Six Flags Great Adventure,United States,S&S Sansei Technologies,2016,543,25,459,1027,165
+0.5407166124,475,Fiorano GT Challenge (Right),Ferrari World Abu Dhabi,United Arab Emirates,Maurer,2010,320,24,270,614,22
+0.5386513158,476,Sky Wheel,Skyline Park,Germany,Maurer,2004,314,27,267,608,38
+0.5380165289,477,Leap The Dips,Lakemont Park,United States,Edward Joy Morris,1902,316,19,270,605,36
+0.5368686869,478,Spinball Whizzer,Alton Towers,United Kingdom,Maurer,2004,518,27,445,990,382
+0.5364667747,479,Huracan,Bellewaerde,Belgium,Zierer,2013,321,20,276,617,61
+0.5360303413,480,Rage,Adventure Island,United Kingdom,Gerstlauer,2007,411,26,354,791,78
+0.534989858,481,Stampida (Blue),PortAventura Park,Spain,Custom Coasters International,1997,520,15,451,986,198
+0.5342105263,482,Vicky The Ride,Plopsa Coo,Belgium,Gerstlauer,2011,288,33,249,570,47
+0.534040672,483,Poseidon,Europa Park,Germany,Mack Rides,2000,592,24,515,1131,276
+0.5322793149,484,Skatteøen,Djurs Sommerland,Denmark,Mack Rides,2011,389,30,340,759,39
+0.5321428571,485,Excalibur,Valleyfair!,United States,Arrow Dynamics,1989,433,28,379,840,62
+0.5321100917,486,Montana Suiza,Parque de Atracciones Monte Igueldo,Spain,Heidrich,1928,111,10,97,218,11
+0.5320267686,487,Stampida (Red),PortAventura Park,Spain,Custom Coasters International,1997,547,19,480,1046,196
+0.5304540421,488,Hoosier Hurricane,Indiana Beach,United States,Custom Coasters International,1994,464,30,409,903,86
+0.5303030303,489,Slinky Dog Dash,Walt Disney World - Disney's Hollywood Studios,United States,Mack Rides,2018,517,16,457,990,243
+0.530237581,490,Canyon Blaster,Adventuredome,United States,Arrow Dynamics,1993,472,38,416,926,78
+0.5300699301,491,Diamond Back,Frontier City,United States,Arrow Dynamics,1978,365,28,322,715,25
+0.5298769772,492,Spatiale Experience,Nigloland,France,Mack Rides,2000,288,27,254,569,49
+0.5279886148,493,Sierra Sidewinder,Knott's Berry Farm,United States,Mack Rides,2007,551,11,492,1054,156
+0.5279770445,494,Turbo Track,Ferrari World Abu Dhabi,United Arab Emirates,Intamin,2017,347,42,308,697,24
+0.5279569892,495,Hydrus,Casino Pier,United States,Gerstlauer,2017,238,15,212,465,20
+0.5277136259,496,Joker,Six Flags Over Texas,United States,S&S Sansei Technologies,2017,445,24,397,866,66
+0.527424094,497,Mammut,Erlebnispark Tripsdrill,Germany,Cordes Holzbau,2008,524,29,468,1021,154
+0.5273972603,498,Tweestryd (Duurzaam Landbouw),Wildlands Adventure Zoo Emmen,Netherlands,Vekoma,2018,188,9,168,365,41
+0.5228848821,499,Tumbili,Kings Dominion,United States,S&S Worldwide,2022,367,20,334,721,91
+0.5228136882,500,Drachenritt,Belantis,Germany,Gerstlauer,2003,270,10,246,526,32
+0.5202863962,501,Dragonflier,Dollywood,United States,Vekoma,2019,431,10,397,838,159
+0.5193370166,502,Viper,Six Flags Darien Lake,United States,Arrow Dynamics,1982,368,16,340,724,66
+0.5190631808,503,Batman The Ride,Six Flags Fiesta Texas,United States,S&S Sansei Technologies,2015,467,19,432,918,91
+0.5189732143,504,Hyperspace Mountain,Hong Kong Disneyland,China,Vekoma,2005,224,17,207,448,27
+0.5186862967,505,Rutschebanen,Bakken,Denmark,Valdemar Lebech,1932,436,44,403,883,50
+0.5182724252,506,Road Runner Express,Six Flags Fiesta Texas,United States,Arrow Dynamics,1997,456,24,423,903,102
+0.5174587779,507,Booster Bike,Toverland,Netherlands,Vekoma,2004,520,27,484,1031,270
+0.5166340509,508,Thundercoaster,TusenFryd,Norway,Vekoma,2001,237,54,220,511,15
+0.5160427807,509,Megablitz,Wiener Prater,Austria,Vekoma,1994,186,14,174,374,32
+0.5147679325,510,Calamity Mine,Walibi Belgium,Belgium,Vekoma,1992,473,30,445,948,186
+0.5146276596,511,Inferno,Terra Mitica,Spain,Intamin,2007,183,21,172,376,23
+0.5134589502,512,Shaman,Gardaland,Italy,Vekoma,1985,377,9,357,743,95
+0.5128388017,513,Mumbo Jumbo,Flamingo Land,United Kingdom,S&S Sansei Technologies,2009,350,19,332,701,109
+0.512,514,Yankee Cannonball,Canobie Lake Park,United States,Philadelphia Toboggan Coasters,1936,314,12,299,625,44
+0.5103406326,515,Patriot,California's Great America,United States,Bolliger & Mabillard,1991,411,17,394,822,78
+0.5097402597,516,Speed Rockets,Jardin d'Acclimatation,France,Gerstlauer,2018,151,12,145,308,18
+0.5095389507,517,Legend,Arnolds Park,United States,Outdoor Amusement Enterprise,1930,314,13,302,629,15
+0.5094936709,518,Polar X-plorer,Legoland Billund,Denmark,Zierer,2012,311,22,299,632,46
+0.509202454,519,Big Dipper,Blackpool Pleasure Beach,United Kingdom,William Strickler,1923,481,34,463,978,260
+0.5079872204,520,Turbulance,Adventureland New York,United States,Mack Rides,2015,149,20,144,313,17
+0.5078431373,521,Falcon,Duinrell,Netherlands,Gerstlauer,2009,378,21,366,765,100
+0.5068578554,522,Joker,Six Flags New England,United States,S&S Sansei Technologies,2017,399,15,388,802,95
+0.5059139785,523,Revolution,Bobbejaanland,Belgium,Vekoma,1989,453,35,442,930,147
+0.5053763441,524,Cobra,Conny-Land,Switzerland,Pax Company,2010,131,20,128,279,15
+0.5016465423,525,Thunderbolt,Luna Park,United States,Zamperla,2014,442,30,439,911,61
+0.5006821282,526,Shredder,Nickelodeon Universe Theme Park,United States,Gerstlauer,2019,360,14,359,733,51
+0.5,527,Giant Dipper,Belmont Park,United States,Frederick Church,1925,430,23,430,883,54
+0.5,528,Invertigo,Kings Island,United States,Vekoma,1999,520,21,520,1061,254
+0.5,529,Flight of the Pterosaur,Paultons Park,United Kingdom,Vekoma,2016,290,12,290,592,111
+0.4994285714,530,Joker,Six Flags Great America,United States,S&S Sansei Technologies,2017,424,26,425,875,109
+0.4988452656,531,Tweestryd (Eerlijk Mijnbouw),Wildlands Adventure Zoo Emmen,Netherlands,Vekoma,2018,208,16,209,433,42
+0.4980276134,532,Grizzly,Kings Dominion,United States,Taft,1982,491,28,495,1014,206
+0.4966960352,533,Blue Hawk,Six Flags Over Georgia,United States,Vekoma,1989,442,18,448,908,132
+0.496054115,534,Pandemonium,Six Flags St. Louis,United States,Gerstlauer,2007,434,12,441,887,94
+0.495697074,535,Miniwah,Freizeitpark Plohn,Germany,Mack Rides,2015,278,20,283,581,39
+0.494011976,536,Wave Breaker: The Rescue Coaster,SeaWorld San Antonio,United States,Intamin,2017,402,21,412,835,58
+0.4936775553,537,Pandemonium,Six Flags New England,United States,Gerstlauer,2005,460,17,472,949,111
+0.4934518241,538,Atlantica SuperSplash,Europa Park,Germany,Mack Rides,2005,515,25,529,1069,257
+0.4931506849,539,Phoenix,Deno's Wonder Wheel Amusement Park,United States,Vekoma,2021,245,14,252,511,28
+0.4925864909,540,Force One,Schwaben Park,Germany,Zierer,2010,291,16,300,607,31
+0.4876160991,541,Untamed,Canobie Lake Park,United States,Gerstlauer,2011,308,14,324,646,42
+0.4859075536,542,Pandemonium,Six Flags Over Texas,United States,Gerstlauer,2008,423,16,448,887,83
+0.4839832869,543,Cannon Ball,Lake Winnepesaukah,United States,Philadelphia Toboggan Coasters,1967,336,23,359,718,28
+0.4825581395,544,Drenched,Oakwood Theme Park,United Kingdom,Intamin,2002,78,10,84,172,16
+0.4815016322,545,Pandemonium,Six Flags Fiesta Texas,United States,Gerstlauer,2007,434,17,468,919,92
+0.4813559322,546,Vilda Musen,Gröna Lund,Sweden,Gerstlauer,2003,403,46,436,885,59
+0.4806273063,547,Shuttle Loop,Nagashima Spa Land,Japan,Schwarzkopf,1980,242,37,263,542,19
+0.480513729,548,Raik,Phantasialand,Germany,Vekoma,2016,525,35,569,1129,380
+0.4804400978,549,Gaz Express,Bagatelle,France,Soquet,1987,192,9,208,409,15
+0.4796905222,550,Space Fantasy The Ride,Universal Studios Japan,Japan,Mack Rides,2010,225,46,246,517,19
+0.4795204795,551,Reptilian,Kings Dominion,United States,Mack Rides,1988,469,22,510,1001,177
+0.4791029562,552,Loup-Garou,Walibi Belgium,Belgium,Vekoma,2001,456,28,497,981,202
+0.4790909091,553,Iron Dragon,Cedar Point,United States,Arrow Dynamics,1987,517,20,563,1100,385
+0.4787878788,554,Matterhorn Blitz,Europa Park,Germany,Mack Rides,1999,540,26,589,1155,270
+0.4787701318,555,Cobra,Paultons Park,United Kingdom,Gerstlauer,2006,320,14,349,683,108
+0.478587963,556,Fairly Odd Coaster,Nickelodeon Universe,United States,Gerstlauer,2004,402,23,439,864,75
+0.4781395349,557,Adventure Express,Kings Island,United States,Arrow Dynamics,1991,498,32,545,1075,268
+0.4778761062,558,Fiorano GT Challenge (Left),Ferrari World Abu Dhabi,United Arab Emirates,Maurer,2010,303,42,333,678,23
+0.47702407,559,Roar,Six Flags America,United States,Great Coasters International,1998,426,20,468,914,118
+0.4760914761,560,Desert Storm,Castles n' Coasters,United States,Hopkins,1992,221,16,244,481,18
+0.4757281553,561,K2,Karls Erlebnis-Dorf Elstal,Germany,abc rides,2018,94,8,104,206,11
+0.475257732,562,Ultra Twister,Nagashima Spa Land,Japan,Togo,1989,214,33,238,485,17
+0.4750445633,563,Cyclone,Lakeside Amusement Park,United States,Edward Vettel,1940,257,19,285,561,14
+0.4748677249,564,Arashi,Nagashima Spa Land,Japan,S&S Sansei Technologies,2017,160,39,179,378,15
+0.4746945899,565,Texas Tornado,Wonderland Amusement Park,United States,Hopkins,1985,259,26,288,573,12
+0.4730215827,566,Insider,Wiener Prater,Austria,Maurer,2013,128,7,143,278,27
+0.4723661485,567,Roller Coaster,Great Yarmouth Pleasure Beach,United Kingdom,Erich Heidrich,1932,263,21,295,579,46
+0.4720464135,568,Thunderbolt,Six Flags New England,United States,Harry Baker,1939,438,19,491,948,120
+0.4709897611,569,Skyliner,Lakemont Park,United States,Philadelphia Toboggan Coasters,1987,268,16,302,586,33
+0.470657277,570,Avatar Airbender,Nickelodeon Universe,United States,Intamin,2008,394,14,444,852,69
+0.4656113537,571,Roller Coaster Mayan,Energylandia,Poland,Vekoma,2015,413,27,476,916,126
+0.4644549763,572,Saven,Fårup Sommerland,Denmark,Vekoma,2020,187,18,217,422,23
+0.4632486388,573,Indiana Jones et le Temple du Peril,Disneyland Paris - Disneyland Park,France,Intamin,1993,496,29,577,1102,241
+0.4626865672,574,Velocity,Flamingo Land,United Kingdom,Vekoma,2005,328,26,383,737,117
+0.4624183007,575,Runaway Mountain,Six Flags Over Texas,United States,Premier Rides,1996,417,15,486,918,91
+0.4618937644,576,Freestyle,Cavallino Matto,Italy,Togo,1985,195,10,228,433,15
+0.4618834081,577,Fluch des Kraken,Freizeit-Land Geiselwind,Germany,Vekoma,2000,198,16,232,446,25
+0.4617283951,578,Spinning Dragons,Worlds of Fun,United States,Gerstlauer,2004,367,14,429,810,62
+0.4615384615,579,Drachen Höhle,Freizeit-Land Geiselwind,Germany,Zierer,1989,156,12,183,351,17
+0.4615384615,580,Roller Coaster,Lagoon,United States,John Miller,1921,291,18,341,650,44
+0.4603789836,581,Schweizer Bobbahn,Europa Park,Germany,Mack Rides,1985,517,35,609,1161,267
+0.4582132565,582,French Revolution2 VR,Lotte World,South Korea,Vekoma,1989,149,20,178,347,13
+0.4577464789,583,Dragon Slayer,Adventureland Iowa,United States,S&S Sansei,2021,189,12,225,426,16
+0.4571428571,584,Diving Coaster,Happy Valley Shanghai,China,Bolliger & Mabillard,2009,44,8,53,105,6
+0.4546153846,585,Raging Spirits,Tokyo DisneySea,Japan,Intamin,2005,283,25,342,650,24
+0.4542910448,586,Schtroumpfeur,Plopsa Coo,Belgium,Vekoma,1989,232,23,281,536,40
+0.4541223404,587,Kirnu,Linnanmäki,Finland,Intamin,2007,327,29,396,752,32
+0.453125,588,Thunderhawk,Dorney Park & Wildwater Kingdom,United States,Philadelphia Toboggan Coasters,1924,422,26,512,960,143
+0.4489164087,589,Demon,Six Flags Great America,United States,Arrow Dynamics,1976,422,26,521,969,140
+0.4488255034,590,Boomerang,Bellewaerde,Belgium,Vekoma,1984,259,17,320,596,57
+0.4479418886,591,High Roller,Valleyfair!,United States,Rauerhorst Corporation,1976,355,30,441,826,59
+0.4472826087,592,Laff Trakk,Hersheypark,United States,Maurer,2015,402,19,499,920,202
+0.4470842333,593,X Coaster,Magic Springs Theme and Water Park,United States,Maurer,2006,203,8,252,463,11
+0.4452247191,594,Skull Mountain,Six Flags Great Adventure,United States,Intamin,1996,463,25,580,1068,200
+0.4439252336,595,Defiance,Glenwood Caverns Adventure Park,United States,Gerstlauer,2022,88,14,112,214,8
+0.4437022901,596,Predator,IMG Worlds of Adventure,United Arab Emirates,Gerstlauer,2016,224,17,283,524,12
+0.4430769231,597,Exterminator,Kennywood,United States,Reverchon,1999,421,22,532,975,134
+0.4426900585,598,Insane,Gröna Lund,Sweden,Intamin,2009,353,51,451,855,60
+0.4425837321,599,Steel Dragon,Waldameer,United States,Maurer,2004,361,18,457,836,67
+0.4416924665,600,Nickelodeon Streak,Blackpool Pleasure Beach,United Kingdom,Charles Paige,1933,414,28,527,969,259
+0.4413092551,601,Naga Bay,Bobbejaanland,Belgium,Maurer,2011,379,24,483,886,133
+0.4402985075,602,Looping Star,Nagashima Spa Land,Japan,Schwarzkopf,1982,224,24,288,536,17
+0.4397394137,603,Battlestar Galactica Human,Universal Studios Singapore,Singapore,Vekoma,2010,127,16,164,307,26
+0.4391171994,604,Spider,Lagoon,United States,Maurer,2003,283,11,363,657,46
+0.4379084967,605,Panic Coaster - Back Daaan,Tokyo Dome City,Japan,Gerstlauer,2019,64,6,83,153,7
+0.4377289377,606,Maskerade,Wiener Prater,Austria,Gerstlauer,2015,113,13,147,273,23
+0.4366972477,607,Spider-Man Doc Ock's Revenge,IMG Worlds of Adventure,United Arab Emirates,Mack Rides,2016,231,14,300,545,14
+0.4364278507,608,Big Loop,Heide Park Resort,Germany,Vekoma,1983,419,27,545,991,160
+0.4352941176,609,Grand Canyon,Fraispertuis City,France,Soquet,2002,173,24,228,425,12
+0.4341317365,610,Kingdom Coaster,Dutch Wonderland,United States,Custom Coasters International,1992,286,8,374,668,35
+0.4327689243,611,Volldampf,Erlebnispark Tripsdrill,Germany,Vekoma,2020,414,41,549,1004,126
+0.4322678843,612,Light Explorers,Energylandia,Poland,Vekoma,2021,277,14,366,657,91
+0.4310538117,613,Kvasten,Gröna Lund,Sweden,Vekoma,2007,370,29,493,892,61
+0.4282920469,614,Wolverine Wildcat,Michigan's Adventure,United States,Dinn Corporation,1988,317,23,427,767,63
+0.4263721553,615,TNT Tren de la Mina,Parque de Atracciones de Madrid,Spain,Gerstlauer,2012,305,27,415,747,36
+0.4257095159,616,MotoGee,Särkänniemi Amusement Park,Finland,Zamperla,2010,242,26,331,599,21
+0.425445705,617,Timmy's Half-Pipe Havoc,Nickelodeon Universe Theme Park,United States,Intamin,2019,251,23,343,617,36
+0.4237113402,618,Cobra des Amun Ra,Belantis,Germany,Gerstlauer,2015,199,13,273,485,29
+0.4226305609,619,Tomahawk,PortAventura Park,Spain,Custom Coasters International,1997,420,34,580,1034,146
+0.4203142536,620,Steeplechase,Luna Park,United States,Zamperla,2011,363,23,505,891,50
+0.4202279202,621,Moto Coaster,Six Flags Darien Lake,United States,Zamperla,2008,286,18,398,702,54
+0.4189189189,622,Twister II,Elitch Gardens,United States,Hensel Phelps Construction,1995,240,16,336,592,23
+0.4186046512,623,Dragon Coaster,Legoland New York,United States,Zierer,2021,86,8,121,215,6
+0.4185840708,624,Pegasus,Europa Park,Germany,Mack Rides,2006,457,32,641,1130,255
+0.4183168317,625,Desmo Race (Left),Mirabilandia,Italy,Maurer,2019,79,11,112,202,16
+0.4181208054,626,Dragon Fly,Duinrell,Netherlands,Gerstlauer,2012,300,23,422,745,89
+0.4149659864,627,Green Lantern Coaster,Warner Bros. Movie World,Australia,S&S Sansei Technologies,2011,59,4,84,147,24
+0.4146341463,628,Galaxy Orbiter,Galaxyland Amusement Park,Canada,Gerstlauer,2007,147,12,210,369,8
+0.4145383104,629,Boomerang,Wiener Prater,Austria,Vekoma,1992,204,14,291,509,30
+0.4131205674,630,Descente en Shlitt',Nigloland,France,Mack Rides,2007,223,20,321,564,38
+0.4130901288,631,La Vibora,Six Flags Over Texas,United States,Intamin,1984,372,26,534,932,92
+0.4124015748,632,Carolina Cyclone,Carowinds,United States,Arrow Dynamics,1980,403,32,581,1016,175
+0.411380597,633,Jack Rabbit,Seabreeze,United States,John Miller,1920,207,27,302,536,23
+0.4107648725,634,Wildcat,Frontier City,United States,National Amusement Device Company,1967,277,26,403,706,26
+0.4083094556,635,Astro Storm,Brean Theme Park,United Kingdom,Zierer,1984,138,9,202,349,23
+0.4080717489,636,Dragon Coaster,Playland Park New York,United States,Frederick Church,1929,267,12,390,669,20
+0.4077669903,637,Desmo Race (Right),Mirabilandia,Italy,Maurer,2019,77,14,115,206,17
+0.406547619,638,Boomerang,Energylandia,Poland,Vekoma,2017,334,15,491,840,115
+0.4063088512,639,Gold Rusher,Six Flags Magic Mountain,United States,Arrow Dynamics,1971,419,25,618,1062,175
+0.4054809843,640,Tig'rr Coaster,Indiana Beach,United States,Schwarzkopf,1976,349,27,518,894,85
+0.4046973803,641,Crazy Bats,Phantasialand,Germany,Vekoma,1988,432,32,643,1107,319
+0.4020452099,642,Judge Roy Scream,Six Flags Over Texas,United States,Don Rosser,1980,358,31,540,929,94
+0.402027027,643,Balagos - Flying Flame,Avonturenpark Hellendoorn,Netherlands,Vekoma,1990,230,16,346,592,59
+0.4018361582,644,Journey to Atlantis,SeaWorld San Diego,United States,Mack Rides,2004,277,15,416,708,64
+0.4016159696,645,Dark Knight,Six Flags Great Adventure,United States,Mack Rides,2008,410,25,617,1052,177
+0.4015852048,646,Firebird,Six Flags America,United States,Bolliger & Mabillard,1990,294,20,443,757,89
+0.400712831,647,RC Racer,Disneyland Paris - Walt Disney Studios Park,France,Intamin,2010,379,29,574,982,151
+0.3996265173,648,Pony Express,Knott's Berry Farm,United States,Zamperla,2008,420,16,635,1071,159
+0.3989151874,649,Anaconda,Kings Dominion,United States,Arrow Dynamics,1991,391,27,596,1014,197
+0.3978365385,650,Wilde Hilde,Schwaben Park,Germany,Ride Engineers Switzerland,2018,157,17,242,416,23
+0.3971742543,651,Sea Serpent,Morey's Piers,United States,Vekoma,1984,244,18,375,637,36
+0.3967268623,652,Dragon Fyre,Canada's Wonderland,Canada,Arrow Dynamics,1981,341,21,524,886,95
+0.3957915832,653,Timberhawk: Ride of Prey,Wild Waves Theme & Water Park,United States,S&S Sansei Technologies,2003,192,11,296,499,9
+0.395696913,654,Runaway Mine Train,Six Flags Great Adventure,United States,Arrow Dynamics,1974,409,28,632,1069,190
+0.393877551,655,Phoenix,Adventureland Iowa,United States,Maurer,2019,187,12,291,490,26
+0.3933691756,656,Quicksilver Express,Gilroy Gardens Family Theme Park,United States,Morgan,2001,214,11,333,558,15
+0.393006263,657,Riddler Revenge,Six Flags New England,United States,Vekoma,1997,358,37,563,958,111
+0.3924449108,658,Dark Knight,Six Flags Great America,United States,Mack Rides,2008,362,24,567,953,119
+0.3911132813,659,Vortex,Carowinds,United States,Bolliger & Mabillard,1992,382,37,605,1024,178
+0.3901895206,660,Demon,California's Great America,United States,Arrow Dynamics,1976,331,38,528,897,86
+0.3889802632,661,Jet Star 2,Lagoon,United States,Schwarzkopf,1974,228,17,363,608,35
+0.3887096774,662,Tiger Express,Mer de Sable,France,Mack Rides,2000,113,15,182,310,9
+0.3885542169,663,Half Pipe,Elitch Gardens,United States,Intamin,2004,187,13,298,498,17
+0.3881453155,664,X-treme Racers,Legoland Billund,Denmark,Mack Rides,2002,197,12,314,523,51
+0.3879310345,665,Runaway Mine Train,Six Flags Over Texas,United States,Arrow Dynamics,1966,350,20,558,928,95
+0.3876353791,666,Corkscrew,Cedar Point,United States,Arrow Dynamics,1976,413,33,662,1108,371
+0.3862876254,667,EqWalizer,Walibi Rhône-Alpes,France,Vekoma,1988,112,7,180,299,27
+0.3862847222,668,Undertow,Santa Cruz Beach Boardwalk,United States,Maurer,2013,216,13,347,576,37
+0.3861386139,669,Flying Cobras,Carowinds,United States,Vekoma,1996,374,32,604,1010,167
+0.3860544218,670,Alpine Bobsled,Great Escape,United States,Intamin,1984,222,10,356,588,38
+0.3842105263,671,Texas Wildcat,Cotaland,United States,Schwarzkopf,1987,70,6,114,190,9
+0.3837209302,672,Wonder Mountain's Guardian,Canada's Wonderland,Canada,ART Engineering,2014,284,26,464,774,67
+0.3836065574,673,Rioolrat,Avonturenpark Hellendoorn,Netherlands,Vekoma,1996,224,20,366,610,58
+0.3822580645,674,Fuga da Atlantide,Gardaland,Italy,Intamin,2003,110,17,183,310,33
+0.3812182741,675,Jimmy Neutron's Atomic Flyer,Movie Park Germany,Germany,Vekoma,2007,359,33,593,985,164
+0.3807053942,676,Ice Mountain,Fantasy Island Lincolnshire,United Kingdom,Reverchon,2000,175,17,290,482,46
+0.3795938104,677,Freedom Flyer,Fun Spot America Orlando,United States,Vekoma,2013,376,33,625,1034,117
+0.3792517007,678,Velociraptor,Paultons Park,United Kingdom,Vekoma,2016,213,20,355,588,104
+0.3775510204,679,Seven Dwarves Mine Train,Shanghai Disneyland,China,Vekoma,2016,54,3,90,147,10
+0.3765159868,680,Cobra,Walibi Belgium,Belgium,Vekoma,2001,327,29,551,907,161
+0.375696767,681,Hurricane,Fun Spot America Kissimmee,United States,E&F Miler Industries,2003,324,26,547,897,78
+0.375,682,Scenic Railway,Dreamland,United Kingdom,John Iles,1920,100,10,170,280,25
+0.3735332464,683,Predator,Six Flags Darien Lake,United States,Dinn Corporation,1990,266,41,460,767,70
+0.3715351812,684,Goudurix,Parc Astérix,France,Vekoma,1989,315,67,556,938,122
+0.371031746,685,Mad Mouse,Michigan's Adventure,United States,Arrow Dynamics,1999,273,15,468,756,58
+0.3687739464,686,Diablo - Tren de la Mina,PortAventura Park,Spain,Arrow Dynamics,1995,368,34,642,1044,190
+0.3682634731,687,Whirlwind,Seabreeze,United States,Maurer,2004,175,19,307,501,18
+0.3681818182,688,Batman The Ride,Six Flags Discovery Kingdom,United States,S&S Sansei Technologies,2019,192,21,337,550,45
+0.3681415929,689,Gold Mine Train,Nigloland,France,Mack Rides,1992,201,14,350,565,40
+0.3668918919,690,Tornado,Adventureland Iowa,United States,William Cobb,1978,260,23,457,740,38
+0.3657657658,691,Sky Dragster,Skyline Park,Germany,Maurer,2017,193,20,342,555,25
+0.3649706458,692,Famous Jack,Bagatelle,France,Reverchon,2015,176,21,314,511,17
+0.3637660485,693,Comet,Walygator Grand Est,France,Vekoma,1989,233,44,424,701,24
+0.3617363344,694,Max + Moritz (Max),Efteling,Netherlands,Mack Rides,2020,322,31,580,933,184
+0.3611111111,695,The Walking Dead - The Ride,Thorpe Park,United Kingdom,Vekoma,1996,346,23,621,990,273
+0.3607594937,696,Classic Coaster,Washington State Fair,United States,John Miller,1935,82,7,148,237,8
+0.3606089439,697,Jaguar!,Knott's Berry Farm,United States,Zierer,1995,368,22,661,1051,155
+0.360591133,698,Hurler,Carowinds,United States,International Coasters,1994,351,30,634,1015,183
+0.359168242,699,Dragen,Legoland Billund,Denmark,Mack Rides,1997,183,14,332,529,56
+0.3591370558,700,"Correcaminos Bip, Bip",Parque Warner Madrid,Spain,Mack Rides,2009,269,28,491,788,40
+0.359030837,701,SpeedSnake FREE,Fort Fun Abenteuerland,Germany,Vekoma,1982,234,21,426,681,32
+0.3586956522,702,Jolly Rancher Remix,Hersheypark,United States,Vekoma,1991,320,20,580,920,187
+0.3583599574,703,Max + Moritz (Moritz),Efteling,Netherlands,Mack Rides,2020,320,33,586,939,173
+0.3580901857,704,Wild Train,Parc Saint Paul,France,Pax Company,2000,126,18,233,377,11
+0.3560354374,705,River King Mine Train,Six Flags St. Louis,United States,Arrow Dynamics,1971,311,21,571,903,98
+0.354561879,706,Alpenexpress Enzian,Europa Park,Germany,Mack Rides,1984,378,29,700,1107,234
+0.3541300527,707,Merlin's Mayhem,Dutch Wonderland,United States,S&S Sansei Technologies,2018,194,15,360,569,15
+0.3525139665,708,Pegasus,Mt. Olympus Water & Theme Park,United States,Custom Coasters International,1996,304,23,568,895,62
+0.3523573201,709,SuperSplash,TusenFryd,Norway,Mack Rides,2003,133,18,252,403,11
+0.3523316062,710,Odyssey,Fantasy Island Lincolnshire,United Kingdom,Vekoma,2002,189,30,360,579,64
+0.351981352,711,Pepsi Orange Streak,Nickelodeon Universe,United States,Zierer,1992,295,14,549,858,78
+0.3500597372,712,Comet,Waldameer,United States,Philadelphia Toboggan Coasters,1951,283,20,534,837,70
+0.3484107579,713,Flying Eagle,Legoland Billund,Denmark,Zierer,2018,137,11,261,409,22
+0.3470350404,714,Ukko,Linnanmäki,Finland,Maurer,2011,238,39,465,742,33
+0.3466183575,715,Corkscrew,Valleyfair!,United States,Arrow Dynamics,1980,273,28,527,828,61
+0.3459302326,716,Wild Waves,Playland's Castaway Cove,United States,E&F Miler Industries,2017,169,19,328,516,22
+0.3444180523,717,Wipeout,Pleasurewood Hills,United Kingdom,Vekoma,1988,136,18,267,421,39
+0.3420441347,718,Dream Catcher,Bobbejaanland,Belgium,Vekoma,1987,285,19,557,861,135
+0.3418467583,719,Cannonball Express,Pleasurewood Hills,United Kingdom,Schwarzkopf,1983,169,10,330,509,39
+0.3406666667,720,Journey to Atlantis,SeaWorld San Antonio,United States,Mack Rides,2007,242,27,481,750,40
+0.3400990099,721,Schlange von Midgard,Hansa Park,Germany,Gerstlauer,2011,330,27,653,1010,123
+0.339668616,722,Santa Monica West Coaster,Pacific Park,United States,Morgan,1996,334,29,663,1026,96
+0.3373287671,723,Arkham Asylum - Shock Therapy,Warner Bros. Movie World,Australia,Vekoma,1995,91,15,186,292,21
+0.33566058,724,Steeplechase (Red),Blackpool Pleasure Beach,United Kingdom,Arrow Dynamics,1977,290,45,596,931,181
+0.3354661792,725,Mælkevejen,Tivoli Gardens,Denmark,Mack Rides,2019,175,17,355,547,37
+0.3354316547,726,Huracan,Belantis,Germany,Gerstlauer,2010,176,21,359,556,34
+0.3341493268,727,Vilde Mus,Bakken,Denmark,Mack Rides,2012,259,28,530,817,43
+0.3338430173,728,Apple Zapple,Kings Dominion,United States,Mack Rides,2002,313,29,639,981,163
+0.3333333333,729,Joyride,PowerLand,Finland,L&T Systems,2003,120,12,246,378,14
+0.3333333333,730,Feuerdache,Legoland Deutschland,Germany,Zierer,2002,168,14,343,525,46
+0.3333333333,731,Furio,Dennlys Parc,France,Soquet,2003,137,12,280,429,9
+0.3333333333,732,Bobsleds,Seabreeze,United States,George Long,1962,162,10,329,501,20
+0.3322510823,733,Cagliostro,MagicLand,Italy,Maurer,2011,148,11,303,462,9
+0.3321167883,734,Dubai Drone,VR Park Dubai,United Arab Emirates,Gerstlauer,2009,44,3,90,137,8
+0.3320707071,735,Hummel Brummel,Schwaben Park,Germany,Wiegand,2020,125,13,258,396,19
+0.3315270936,736,Carolina Goldrusher,Carowinds,United States,Arrow Dynamics,1973,314,45,656,1015,170
+0.3310185185,737,Oki Doki,Bobbejaanland,Belgium,Vekoma,2004,275,22,567,864,131
+0.331010453,738,Sky Rider,Skyline Park,Germany,Caripro,2001,181,18,375,574,31
+0.330964467,739,Runaway Mine Train,Alton Towers,United Kingdom,Mack Rides,1992,312,28,645,985,373
+0.3308219178,740,Nickelodeon Slime Streak,Nickelodeon Universe Theme Park,United States,Chance Rides,2019,229,25,476,730,48
+0.3297258297,741,Devil's Mine,Fort Fun Abenteuerland,Germany,Vekoma,1991,217,23,453,693,36
+0.326405868,742,T-Rex Family Coaster,Djurs Sommerland,Denmark,Mack Rides,2022,126,15,268,409,19
+0.325511432,743,Fire in The Hole,Silver Dollar City,United States,Silver Dollar City,1972,262,17,552,831,99
+0.3244325768,744,Black Diamond,Knoebels Amusement Resort,United States,Philadelphia Toboggan Coasters,1960,233,20,496,749,72
+0.3234341253,745,Woodstock Express,Kings Island,United States,Philadelphia Toboggan Coasters,1972,287,25,614,926,164
+0.3224852071,746,Bob Express,Bobbejaanland,Belgium,Mack Rides,2000,259,27,559,845,125
+0.321557971,747,Cedar Creek Mine Ride,Cedar Point,United States,Arrow Dynamics,1969,341,28,735,1104,351
+0.3215031315,748,Steeplechase (Green),Blackpool Pleasure Beach,United Kingdom,Arrow Dynamics,1977,291,34,633,958,180
+0.3186813187,749,Olandese Volante,MagicLand,Italy,Vekoma,2011,143,4,308,455,8
+0.3182451253,750,Flagermusen,Fårup Sommerland,Denmark,Reverchon,2001,217,23,478,718,28
+0.317679558,751,Comet Express,Lotte World,South Korea,Intamin,1995,100,30,232,362,15
+0.3175853018,752,Big Dipper,Camden Park,United States,National Amusement Device Company,1958,108,26,247,381,11
+0.3170310702,753,Psycho Mouse,California's Great America,United States,Arrow Dynamics,2001,268,15,586,869,65
+0.316700611,754,SuperSplash,Plopsaland De Panne,Belgium,MACK Rides,2006,149,13,329,491,79
+0.3164556962,755,Monstre (Left),La Ronde,Canada,William Cobb,1985,131,38,305,474,25
+0.3161004431,756,Mad Mouse,Little Amerricka,United States,Allan Herschell Company,1960,206,16,455,677,31
+0.315926893,757,Corkscrew,Michigan's Adventure,United States,Arrow Dynamics,1979,231,22,513,766,66
+0.3153988868,758,Big Bad John,Magic Springs Theme and Water Park,United States,Arrow Dynamics,1971,161,18,360,539,9
+0.3149171271,759,Tranan,Skara Sommarland,Sweden,S&S Sansei Technologies,2009,53,8,120,181,8
+0.3147410359,760,Project 1,Cavallino Matto,Italy,L&T Systems,2006,75,8,168,251,9
+0.3146766169,761,Ragin' Cajun,Six Flags America,United States,Zamperla,2014,243,20,541,804,87
+0.3145478375,762,Accelerator,Drayton Manor,United Kingdom,Vekoma,2011,230,20,513,763,165
+0.3143712575,763,Hochschaubahn,Wiener Prater,Austria,Kremser,1950,101,8,225,334,22
+0.3136160714,764,Mighty Canadian Minebuster,Canada's Wonderland,Canada,Curtis Summers,1981,268,26,602,896,97
+0.3136094675,765,Blazing Fury,Dollywood,United States,Dollywood,1978,307,22,685,1014,184
+0.3125,766,Steeplechase (Yellow),Blackpool Pleasure Beach,United Kingdom,Arrow Dynamics,1977,272,31,617,920,163
+0.3121212121,767,Tyfoon,DippieDoe Attractiepark,Netherlands,Zierer,1989,100,6,224,330,18
+0.3120915033,768,Bandit Bomber,Yas Waterworld,United Arab Emirates,Vekoma,2013,87,17,202,306,12
+0.3120300752,769,Fridolin's verruckter Zauberexpress,Fantasiana,Austria,ART Engineering,2021,80,6,180,266,7
+0.3093587522,770,Rewind Racers,Adventure City,United States,Gerstlauer,2015,172,13,392,577,13
+0.3086419753,771,Mouse Trap,Wonderland Amusement Park,United States,Pinfari,1975,164,22,381,567,11
+0.3083140878,772,Souris Verte,Parc Saint Paul,France,Zamperla,2007,129,9,295,433,11
+0.3081232493,773,Scooby-Doo Spooky Coaster Next Generation,Warner Bros. Movie World,Australia,Mack Rides,2002,102,16,239,357,33
+0.3072747014,774,Woodstock Express,Kings Dominion,United States,Philadelphia Toboggan Coasters,1974,273,20,628,921,123
+0.3065433855,775,Dynamite Express,Drievliet Family Park,Netherlands,Mack Rides,2005,206,19,478,703,50
+0.3038194444,776,Gekion Live Coaster,Tokyo Joypolis,Japan,Gerstlauer,2012,80,15,193,288,8
+0.3037037037,777,Green Hornet: High Speed Chase,Motiongate,United Arab Emirates,Gerstlauer,2016,156,16,368,540,14
+0.3016443988,778,Woodstock Express,Carowinds,United States,Philadelphia Toboggan Coasters,1975,276,35,662,973,97
+0.3014285714,779,Rodelbaan,De Waarbeek,Netherlands,Waardeek,1930,95,21,234,350,17
+0.3011049724,780,Thunderhawk,Michigan's Adventure,United States,Vekoma,1998,206,24,494,724,66
+0.2995049505,781,Bandit,Movie Park Germany,Germany,Roller Coaster Cooporation of America,1999,276,53,681,1010,197
+0.2987804878,782,Mad Mouse,Valleyfair!,United States,Arrow Dynamics,1999,234,22,564,820,58
+0.2987804878,783,Joker,Six Flags Mexico,Mexico,Gerstlauer,2008,66,15,165,246,8
+0.2985781991,784,Wilde Maus,Taunus Wunderland,Germany,Mack Rides,1999,57,12,142,211,11
+0.2982885086,785,Wickie Coaster,Plopsa Indoor Hasselt,Belgium,Zierer,2005,114,16,279,409,30
+0.2981878089,786,Sky Spin,Skyline Park,Germany,Maurer,2003,168,26,413,607,33
+0.2955865273,787,Dahlonega Mine Train,Six Flags Over Georgia,United States,Arrow Dynamics,1967,247,15,599,861,119
+0.2947712418,788,Energuś,Energylandia,Poland,Vekoma,2015,212,27,526,765,87
+0.2940647482,789,Das Grose LEGO Rennen,Legoland Deutschland,Germany,Mack Rides,2002,154,19,383,556,46
+0.2937625755,790,Tyfonen,Tivoli Friheden,Denmark,Zamperla,2006,139,14,344,497,18
+0.2926490985,791,Linnunrata eXtra,Linnanmäki,Finland,Zierer,2000,201,20,500,721,27
+0.2924528302,792,Speedy Bob,Bobbejaanland,Belgium,SBF Visa,1998,233,30,585,848,122
+0.2924151697,793,Cyclone,Wonderland Amusement Park,United States,Miler Manufacturing,1960,137,19,345,501,12
+0.2899484536,794,Sand Serpent,Busch Gardens Tampa,United States,Mack Rides,1996,323,29,812,1164,230
+0.2895791583,795,Big Apple Coaster,"New York, New York Hotel & Casino",United States,Togo,1997,267,44,687,998,97
+0.2888127854,796,Frida,Energylandia,Poland,Vekoma,2019,239,28,609,876,105
+0.2880597015,797,Goofy's Sky School,Disney California Adventure Park,United States,Mack Rides,2001,276,27,702,1005,148
+0.2875436554,798,Rattlesnake,Chessington World of Adventures,United Kingdom,Maurer,1998,240,14,605,859,214
+0.2868589744,799,Hot Wheels SideWinder,Dreamworld,Australia,Arrow Dynamics,2001,85,9,218,312,33
+0.2862903226,800,Tidal Wave,Clarence Pier,United Kingdom,SBF Visa,2019,65,12,171,248,13
+0.2849462366,801,Pikajuna,Linnanmäki,Finland,Mack Rides,1990,172,27,452,651,25
+0.2847222222,802,Familieachtbaan,BillyBird Park Hemelrijk,Netherlands,abc rides,2009,76,12,200,288,11
+0.2841584158,803,Scream'n Eagle,Fun Spot America Atlanta,United States,E&F Miler Industries,2007,137,13,355,505,15
+0.2840681363,804,Ricochet,Carowinds,United States,Mack Rides,2002,268,31,699,998,148
+0.2835249042,805,Bulldog Coaster,Brean Theme Park,United Kingdom,Pinfari,1986,67,14,180,261,16
+0.283319363,806,Flight of the Hippogriff,Universal Studios Islands of Adventure,United States,Vekoma,2000,327,22,844,1193,325
+0.2831168831,807,Wickiebaan,Plopsa Indoor Coevorden,Netherlands,Zierer,2010,103,12,270,385,15
+0.2826797386,808,Draak,Plopsaland De Panne,Belgium,Mack Rides,2004,246,27,645,918,152
+0.2826771654,809,Wild Mouse,Beech Bend,United States,Zamperla,2005,175,9,451,635,24
+0.2826327434,810,Ninja,Six Flags St. Louis,United States,Vekoma,1986,239,33,632,904,100
+0.2816153029,811,Wild Mouse,Hersheypark,United States,Mack Rides,1999,252,26,663,941,179
+0.2810945274,812,Crazy Mine,Hansa Park,Germany,Maurer,1997,268,29,708,1005,124
+0.2802197802,813,Wild Chipmunk,Lakeside Amusement Park,United States,Miler Manufacturing,1955,145,16,385,546,12
+0.2796127563,814,Vol D'lcare,Parc Astérix,France,Zierer,1994,234,23,621,878,89
+0.2776584318,815,Grottenblitz,Heide Park Resort,Germany,Mack Rides,1985,239,39,653,931,137
+0.277486911,816,Gold Digger,Mirabilandia,Italy,L&T Systems,1998,151,16,406,573,37
+0.2768041237,817,Ghost Chasers,Movie Park Germany,Germany,Mack Rides,2000,257,23,690,970,160
+0.2740740741,818,Anaconda,Walygator Grand Est,France,William Cobb,1989,158,54,463,675,26
+0.2735099338,819,Zach's Zoomer,Michigan's Adventure,United States,Custom Coasters International,1994,197,19,539,755,53
+0.2732919255,820,Vertigo,Parque de Atracciones de Madrid,Spain,Mack Rides,1998,209,22,574,805,33
+0.2724014337,821,Mine Expressen,Fårup Sommerland,Denmark,Vekoma,1992,146,12,400,558,27
+0.2719907407,822,Ice Mountain Bobsled,Enchanted Forest,United States,Ascot Design,1983,116,3,313,432,5
+0.2716727717,823,Great Lego Race,Legoland Florida,United States,Mack Rides,2011,209,27,583,819,43
+0.2701729107,824,Diabelska Petla,Legendia Śląskie Wesołe Miasteczko,Poland,Soquet,1988,174,27,493,694,51
+0.2697368421,825,Wildcat,North Georgia State Fair,United States,Schwarzkopf,2011,38,6,108,152,6
+0.268488746,826,Mine Train,Attractiepark Slagharen,Netherlands,Vekoma,2001,157,20,445,622,91
+0.2680901542,827,Bat,Canada's Wonderland,Canada,Vekoma,1987,212,28,603,843,71
+0.2673267327,828,Vildkatten,Sommerland Sjælland,Denmark,Pinfari,2000,26,2,73,101,7
+0.2667910448,829,Joker Funhouse Coaster,Six Flags Over Georgia,United States,Chance Rides,2004,210,9,585,804,64
+0.2667121419,830,Dragon,Legoland Windsor,United Kingdom,WGH Transportation,1998,183,25,525,733,192
+0.2666666667,831,Vilde Hønsejagt,Djurs Sommerland,Denmark,Zierer,2015,128,16,366,510,29
+0.2657926103,832,Fly,Canada's Wonderland,Canada,Mack Rides,1999,212,22,605,839,69
+0.2652877698,833,Cliffhanger,Glenwood Caverns Adventure Park,United States,S&MC,1999,139,17,400,556,16
+0.2642276423,834,Twister Rollercoaster,Crealy Adventure Park,United Kingdom,SBF Visa,2015,30,5,88,123,14
+0.2622857143,835,Boomerang,Six Flags Fiesta Texas,United States,Vekoma,1999,210,39,626,875,79
+0.2621052632,836,Rhombus Rocket,Fantasy Island Lincolnshire,United Kingdom,WGH Transportation,1995,114,21,340,475,60
+0.2613168724,837,Wildcat,Adventure Park USA,United States,Schwarzkopf,1976,116,22,348,486,14
+0.2589285714,838,Magic Mouse,Brean Theme Park,United Kingdom,Reverchon,2007,56,4,164,224,14
+0.2584789311,839,Trailblazer,Hersheypark,United States,Arrow Dynamics,1974,244,15,714,973,198
+0.2583249243,840,Royal Scotsman,Hansa Park,Germany,Vekoma,1993,244,24,723,991,115
+0.2565543071,841,Monstre (Right),La Ronde,Canada,William Cobb,1985,122,30,382,534,23
+0.2563791009,842,Ghoster Coaster,Canada's Wonderland,Canada,Curtis Summers,1981,196,30,597,823,64
+0.2555205047,843,Turbo-Drachen,Potts Park,Germany,abc rides,2009,76,10,231,317,6
+0.2551834131,844,Bombora,Lagoon,United States,Lagoon,2011,156,8,463,627,38
+0.2547332186,845,Crazy Mouse,DelGrosso's Amusement Park,United States,Reverchon,2004,140,16,425,581,14
+0.2527417747,846,Toos-Express,Toverland,Netherlands,Vekoma,2001,239,29,735,1003,222
+0.252,847,Achterbahn,Bayern Park,Germany,Zierer,2001,89,11,275,375,12
+0.2519001086,848,Tabalugas Achterbahn,Holiday Park,Germany,Zierer,2018,222,20,679,921,93
+0.2515789474,849,Gotham City Gauntlet Escape from Arkham Asylum,Six Flags New England,United States,Maurer,2000,227,24,699,950,103
+0.2511485452,850,Crazy Coaster,South Pier,United Kingdom,Reverchon,2018,153,22,478,653,32
+0.250929368,851,Sequoia Magic Loop,Gardaland,Italy,S&S Sansei Technologies,2005,123,24,391,538,39
+0.2505252101,852,Blue Flyer,Blackpool Pleasure Beach,United Kingdom,Charlie Paige,1934,222,33,697,952,199
+0.2487684729,853,Hornet,Flambards Village Theme Park,United Kingdom,Zierer,1995,47,7,149,203,22
+0.2475524476,854,Dragon,Legoland California,United States,Vekoma,1999,168,18,529,715,50
+0.2471910112,855,Spin Runway,Yomiuriland,Japan,Gerstlauer,2016,63,6,198,267,6
+0.2464788732,856,Steel Lasso,Frontier City,United States,Vekoma,2008,151,13,475,639,23
+0.2462406015,857,Neo's Twister,PowerLand,Finland,Fabbri,2011,61,9,196,266,12
+0.2460545194,858,Technic Coaster,Legoland California,United States,Mack Rides,2001,165,13,519,697,47
+0.2455696203,859,Zoomerang,Lake Compounce,United States,Vekoma,1997,183,22,585,790,53
+0.2455470738,860,RC,Hong Kong Disneyland,China,Intamin,2011,91,11,291,393,17
+0.2454844007,861,Green Scream,Adventure Island,United Kingdom,Zierer,1999,142,15,452,609,60
+0.2454819277,862,Tyrolean Tubtwist,Joyland Childrens Fun Park,United Kingdom,Horace Cole,1950,74,15,243,332,25
+0.2451768489,863,Corkscrew,Silverwood Theme Park,United States,Arrow Dynamics,1975,141,23,458,622,25
+0.2450980392,864,Loopen,TusenFryd,Norway,Vekoma,1988,111,28,371,510,13
+0.2444444444,865,Dragon,Legoland Dubai,United Arab Emirates,Zierer,2016,52,6,167,225,10
+0.2439637827,866,Galaxy Spin,Fun Spot America Kissimmee,United States,Zamperla,2011,230,25,739,994,91
+0.2438307873,867,Flight of the Hippogriff,Universal Studios Hollywood,United States,Mack Rides,2016,198,19,634,851,90
+0.2428797468,868,Boomerang Coast to Coaster,Six Flags Darien Lake,United States,Vekoma,1998,143,21,468,632,57
+0.2424242424,869,Little Dipper,Six Flags Great America,United States,Philadelphia Toboggan Coasters,1950,205,22,664,891,83
+0.2418154762,870,Meteor,Little Amerricka,United States,Philadelphia Toboggan Coasters,1953,149,27,496,672,27
+0.2417840376,871,Funny Mouse,EuroPark Milano Idroscalo,Italy,Interpark,2011,47,9,157,213,7
+0.2416666667,872,Machine à Vapeur,Jardin d'Acclimatation,France,Soquet,2001,24,10,86,120,8
+0.2407407407,873,Azteka,Le Pal,France,Soquet,2003,36,6,120,162,17
+0.240397351,874,Coastersaurus,Legoland Florida,United States,Martin & Vleminckx,2004,172,19,564,755,39
+0.2397891963,875,Boomerang,Worlds of Fun,United States,Vekoma,2000,164,36,559,759,51
+0.239539749,876,Wild Mouse,Idlewild & SoakZone,United States,Vekoma,1985,107,15,356,478,19
+0.2384960718,877,Wilde Beast,Canada's Wonderland,Canada,Curtis Summers,1981,192,41,658,891,90
+0.2378892734,878,Kung Fu Panda Master,Gardaland,Italy,Fabbri,2016,128,19,431,578,57
+0.2367205543,879,Aérotrain,Parc Saint Paul,France,Vekoma,2014,95,15,323,433,11
+0.2349524815,880,Flashback,Six Flags New England,United States,Vekoma,1985,208,29,710,947,95
+0.2335115865,881,Marble Madness,Pleasurewood Hills,United Kingdom,Maurer,1997,122,18,421,561,40
+0.2327416174,882,Teddy Bear,Stricker's Grove,United States,Ralph Stricker,1996,113,10,384,507,26
+0.2322751323,883,K3 Roller Skater,Plopsaland De Panne,Belgium,Vekoma,1991,209,21,715,945,136
+0.23183391,884,Kapt'n Jack's Wilde Maus,Eifelpark,Germany,Maurer,2017,60,14,215,289,10
+0.2318007663,885,Dark Knight,Six Flags Mexico,Mexico,Mack Rides,2009,60,1,200,261,6
+0.2314814815,886,Plohseidon,Freizeitpark Plohn,Germany,Zierer,2011,93,14,325,432,32
+0.2313432836,887,Dinosaur Valley,Wicksteed Park,United Kingdom,Pinfari,1992,42,9,150,201,23
+0.2311320755,888,Noisette Express,Nigloland,France,ART Engineering,2020,70,7,241,318,28
+0.2310344828,889,Rockin Roller,Botton's Pleasure Beach,United Kingdom,Fabbri,2006,63,8,219,290,21
+0.2294520548,890,Master Thai,Mirabilandia,Italy,Preston & Barbieri,2011,126,16,442,584,32
+0.229253112,891,Infusion,Blackpool Pleasure Beach,United Kingdom,Vekoma,2007,201,40,723,964,251
+0.2285714286,892,Trampolino-Coaster,Trampolino Familien- und Freizeitpark,Germany,SBF Visa,2018,63,18,234,315,6
+0.228531856,893,Tiger Terror,Safari Land,United States,Wisdom Rides,2002,77,11,273,361,9
+0.2277580071,894,Alucinakis,Terra Mitica,Spain,Zamperla,2000,56,16,209,281,18
+0.2272727273,895,Wild Mouse,Luna Park Sydney,Australia,Hopkins & Pearce,1959,49,7,175,231,22
+0.2269005848,896,Wild Mouse,Dorney Park & Wildwater Kingdom,United States,Maurer,2000,182,24,649,855,105
+0.2250996016,897,Achterbahn,Ferienzentrum Schloss Dankern,Germany,abc Rides,2018,54,5,192,251,6
+0.2246987952,898,Thunder Run,Canada's Wonderland,Canada,Mack Rides,1981,179,15,636,830,73
+0.2224409449,899,Rhino Coaster,West Midland Safari Park,United Kingdom,Vekoma,1992,51,11,192,254,27
+0.2219917012,900,Dizzy Mouse,Wiener Prater,Austria,Reverchon,1998,50,7,184,241,17
+0.2213883677,901,Twisted Typhoon,Wild Adventures,United States,Vekoma,1999,110,16,407,533,15
+0.2206439394,902,Hornet,Wonderland Amusement Park,United States,Vekoma,2009,104,25,399,528,9
+0.2183544304,903,Orca Ride,Boudewijn Seapark,Belgium,Zierer,2000,64,10,242,316,16
+0.2179487179,904,Super Cyclone,Santa's Village AZoosment Park,United States,Interpark,2017,76,18,296,390,12
+0.2175398633,905,Sea Dragon,Columbus Zoo and Aquarium,United States,Philadelphia Toboggan Coasters,1956,87,17,335,439,19
+0.2172774869,906,Runaway Tram,Morey's Piers,United States,Zierer,2019,79,8,295,382,17
+0.2157079646,907,Grizzly,California's Great America,United States,Taft,1986,182,26,696,904,77
+0.2156716418,908,Troublesome Trucks Runaway Coaster,Drayton Manor,United Kingdom,Gerstlauer,2008,133,23,514,670,130
+0.2148594378,909,Mad Mouse,Clarence Pier,United Kingdom,SBF Visa,2019,47,13,189,249,14
+0.2140804598,910,Titanide,Terra Mitica,Spain,Vekoma,2003,68,13,267,348,20
+0.2140077821,911,Sidewinder Safari,Six Flags Discovery Kingdom,United States,Zamperla,2022,53,4,200,257,10
+0.2133676093,912,Wild Mouse,Arnolds Park,United States,Allan Herschell Company,1959,77,12,300,389,9
+0.2127659574,913,Spinner,Skara Sommarland,Sweden,Maurer,2001,37,6,145,188,8
+0.2123152709,914,"Casey Jr., Le Petit Train du Cirque",Disneyland Paris - Disneyland Park,France,Vekoma,1994,199,33,783,1015,145
+0.212034384,915,Sea Viper,Palace Playland,United States,Preston & Barbieri,2018,65,18,266,349,13
+0.2107843137,916,Buffalo Stampede,Twinlakes Park,United Kingdom,Zamperla,1987,20,3,79,102,12
+0.2105943152,917,Piraten Spinner,Freizeit-Land Geiselwind,Germany,Zierer,1994,71,21,295,387,19
+0.2098445596,918,Boomerang,Elitch Gardens,United States,Vekoma,1999,110,23,446,579,19
+0.2097264438,919,Steampunk Hunters,TusenFryd,Norway,Vekoma,2001,65,8,256,329,9
+0.2091121495,920,Boomerang,Six Flags St. Louis,United States,Vekoma,1989,163,32,661,856,81
+0.2090301003,921,Wilde Maus,Wiener Prater,Austria,Maurer,1997,59,7,233,299,22
+0.2088414634,922,Green Snake,De Valkenier,Netherlands,Zierer,1981,64,9,255,328,14
+0.2085561497,923,Tidal Twister,SeaWorld San Diego,United States,Skyline Attractions,2019,69,18,287,374,16
+0.2078947368,924,Nitro,Dennlys Parc,France,Preston & Barbieri,2010,66,26,288,380,9
+0.2068527919,925,Blauer Enzian,Freizeit-Land Geiselwind,Germany,Mack Rides,1989,73,17,304,394,22
+0.2059178744,926,Fun Pilot,Walibi Belgium,Belgium,Zierer,2019,159,23,646,828,119
+0.2051926298,927,Wild Mouse,Lagoon,United States,Maurer,1998,115,15,467,597,36
+0.2035714286,928,Batukai Racer,Serengeti Park,Germany,Technical Park,2020,52,10,218,280,9
+0.2028862479,929,Donderstenen,Avonturenpark Hellendoorn,Netherlands,Zierer,2005,115,9,465,589,56
+0.2027310924,930,Woodstock Express,Cedar Point,United States,Vekoma,1999,183,20,749,952,142
+0.2009259259,931,Hundeprutten,BonBon-Land,Denmark,Zierer,1993,98,21,421,540,15
+0.2003768844,932,Vampire,Walibi Belgium,Belgium,Vekoma,1999,143,33,620,796,155
+0.2,933,Hexenbesen,Erlebnisfelsen Pottenstein,Germany,Wiegand,2018,25,2,103,130,7
+0.1998722861,934,Kozmo's Kurves,Knoebels Amusement Resort,United States,E&F Miler Industries,2009,144,25,614,783,63
+0.1996268657,935,Viktor Vandorm,BonBon-Land,Denmark,Zierer,1993,98,18,420,536,16
+0.1990740741,936,London City Coaster,Verkeers- en Attractiepark Duinen Zathe,Netherlands,Pinfari,1991,62,5,257,324,8
+0.1983842011,937,Tibidabo Express,Tibidabo,Spain,Zamperla,2003,98,25,434,557,26
+0.198240866,938,Dragon,Legoland Florida,United States,Vekoma,2004,139,15,585,739,46
+0.1981818182,939,Monkey Mayhem,West Midland Safari Park,United Kingdom,Reverchon,1998,48,13,214,275,28
+0.1975524476,940,Doo Wopper,Morey's Piers,United States,Zamperla,1998,104,18,450,572,23
+0.1971235195,941,Kopermijn,Drievliet Family Park,Netherlands,Maurer,1996,106,21,464,591,51
+0.1967871486,942,Gletscherblitz,Steinwasen Park,Germany,Mack Rides,1998,45,8,196,249,16
+0.1963087248,943,Achterbahn,Rasti-Land,Germany,Vekoma,1991,55,7,236,298,7
+0.1962616822,944,Green Dragon,GreenWood Forest Park,United Kingdom,WGH Transportation,2004,20,2,85,107,9
+0.1958041958,945,Farmyard Flyer,Paultons Park,United Kingdom,Zierer,2022,52,8,226,286,33
+0.1958041958,946,Flight of the Hippogriff,Universal Studios Japan,Japan,Vekoma,2014,79,10,340,429,18
+0.1951219512,947,Scorpion Express,Chessington World of Adventures,United Kingdom,Mack Rides,1987,145,14,620,779,200
+0.1949152542,948,Treetops Roller Coaster,Oakwood Theme Park,United Kingdom,Zierer,1989,141,17,609,767,73
+0.1939520334,949,Harley Quinn Crazy Train,Six Flags Great Adventure,United States,Zierer,1999,176,20,763,959,132
+0.1938356164,950,Underground,Adventureland Iowa,United States,Custom Coasters International,1996,132,19,579,730,35
+0.1935866983,951,Crazy Mouse,Brighton Pier,United Kingdom,Reverchon,2000,78,7,336,421,46
+0.1934619507,952,Tami-Tami,PortAventura Park,Spain,Vekoma,1998,168,25,740,933,110
+0.1933867735,953,Flashback,Great Escape,United States,Vekoma,1997,88,17,394,499,34
+0.1914519906,954,Boomerang Coast to Coaster,Six Flags Discovery Kingdom,United States,Vekoma,1998,154,19,681,854,51
+0.1909385113,955,Spook Express,Joyland Childrens Fun Park,United Kingdom,WGH Transportation,1998,56,6,247,309,24
+0.1893939394,956,Smurf Village Express,Motiongate,United Arab Emirates,Gerstlauer,2017,57,11,262,330,11
+0.1892857143,957,Tickler,Luna Park,United States,Zamperla,2010,150,18,672,840,46
+0.1891604676,958,Rasender Tausendfüßler,Erlebnispark Tripsdrill,Germany,Zierer,1986,167,22,752,941,118
+0.1888297872,959,Hurricane,Race City PCB,United States,S.D.C,1991,34,3,151,188,6
+0.1885964912,960,Ziggy's Blast Quest,The Milky Way Adventure Park,United Kingdom,Caripro,1997,20,3,91,114,13
+0.1884580703,961,Barnstormer,Walt Disney World - Magic Kingdom,United States,Vekoma,1996,199,20,890,1109,259
+0.1882591093,962,Wild Mine,Cavallino Matto,Italy,L&T Systems,1997,42,9,196,247,7
+0.188034188,963,Coast Rider,Knott's Berry Farm,United States,Mack Rides,2013,174,48,831,1053,139
+0.1868583162,964,Rollo Coaster,Idlewild & SoakZone,United States,Philadelphia Toboggan Coasters,1938,84,14,389,487,27
+0.1867816092,965,Gruvbanan,Skara Sommarland,Sweden,Mack Rides,1987,30,5,139,174,6
+0.1865168539,966,Mini Mine Train,Six Flags Over Texas,United States,Arrow Dynamics,1969,154,24,712,890,66
+0.1862197393,967,Wild Mouse,Funtown Splashtown U.S.A.,United States,Maurer,2002,92,16,429,537,11
+0.1854304636,968,Runaway Mine Train,Funland Amusement Park United Kingdom,United Kingdom,L&T Systems,1999,26,4,121,151,9
+0.1847133758,969,Delfinexpressen,Kolmården,Sweden,Vekoma,2009,136,18,631,785,40
+0.1831775701,970,Boomerang,Wild Adventures,United States,Vekoma,1998,89,18,428,535,17
+0.1830065359,971,Antelope,Gulliver's Warrington,United Kingdom,Allott and Lomax,1995,27,2,124,153,18
+0.1799242424,972,Tom y Jerry,Parque Warner Madrid,Spain,Zierer,2002,135,15,642,792,35
+0.1795698925,973,Wild Thing,Wild Waves Theme & Water Park,United States,Arrow Dynamics,1984,76,15,374,465,8
+0.1793587174,974,MP Xpress,Movie Park Germany,Germany,Vekoma,2001,159,40,799,998,176
+0.17890625,975,Rollies Coaster,Morey's Piers,United States,Pinfari,1999,103,23,514,640,28
+0.1786516854,976,Wild Lightnin',Lake Winnepesaukah,United States,L&T Systems,2001,71,17,357,445,10
+0.1784037559,977,Godistaget,Kolmården,Sweden,Zierer,2015,106,16,517,639,33
+0.1783018868,978,Vapor Trail,Sesame Place,United States,Vekoma,1998,91,7,432,530,27
+0.17760181,979,Zoooooom,Oaks Amusement Park,United States,E&F Miler Industries,1999,59,39,344,442,5
+0.1752873563,980,Cyclone,Barry Island Pleasure Park,United Kingdom,SBF Visa,2018,28,5,141,174,7
+0.1751033058,981,T3,Kentucky Kingdom,United States,Vekoma,1995,152,35,781,968,122
+0.1749174917,982,Family Star,Great Yarmouth Pleasure Beach,United Kingdom,Fabbri,2013,48,10,245,303,29
+0.1745435016,983,Catwoman's Whip,Six Flags New England,United States,Zierer,2000,154,17,760,931,92
+0.1745283019,984,Pinball X,Dreamland,United Kingdom,Zamperla,2018,33,8,171,212,11
+0.1740196078,985,Drachen-Achterbahn,Tier- und Freizeitpark Thule,Germany,Zierer,1998,35,1,168,204,5
+0.1737967914,986,Sand Storm,Joyland Amusement Park,United States,Cavazza Diego,1996,56,18,300,374,5
+0.1732673267,987,Idan Pikajuna,Tykkimaki,Finland,Mack Rides,1989,47,11,245,303,10
+0.1727150538,988,Tulireki,Linnanmäki,Finland,Mack Rides,2004,114,29,601,744,29
+0.1726495726,989,Keverbaan,Bellewaerde,Belgium,Zierer,1981,94,14,477,585,58
+0.1723237598,990,Souris Mécaniques,Jardin d'Acclimatation,France,Reverchon,2002,58,16,309,383,17
+0.1704980843,991,Canobie Corkscrew,Canobie Lake Park,United States,Arrow Dynamics,1975,78,22,422,522,24
+0.1696832579,992,Maximus,Crealy Adventure Park,United Kingdom,Vekoma,2000,34,7,180,221,22
+0.1691099476,993,Chip & Dale's Gadget Coaster,Disneyland,United States,Vekoma,1993,155,13,787,955,92
+0.1689922481,994,Mind Eraser,Six Flags Darien Lake,United States,Vekoma,1997,98,22,525,645,53
+0.1689453125,995,Egg-Spress,Pleasurewood Hills,United Kingdom,Zierer,1986,82,9,421,512,37
+0.1689189189,996,Dragon's Apprentice,Legoland New York,United States,Zamperla,2021,24,2,122,148,5
+0.1687306502,997,Cat-O-Pillar Coaster,Paultons Park,United Kingdom,Zierer,2000,104,10,532,646,93
+0.1684782609,998,Mick Doohan's Motocoaster,Dreamworld,Australia,Intamin,2007,30,2,152,184,25
+0.1676427526,999,Ortobruco Tour,Gardaland,Italy,Pinfari,1993,102,25,556,683,59
+0.1670247046,1000,#LikeMe Coaster,Plopsaland De Panne,Belgium,Zierer,1976,146,19,766,931,125
+0.1663275687,1001,Roller Skater,Kentucky Kingdom,United States,Vekoma,1994,155,17,811,983,93
+0.1662621359,1002,Tsunami,Scene75 Entertainment Center Dayton,United States,SBF Visa,2020,62,13,337,412,19
+0.1654135338,1003,Rolling X-Train,Everland,South Korea,Arrow Dynamics,1988,40,8,218,266,13
+0.165,1004,Tidal Wave,Jenkinson's Boardwalk,United States,SBF Visa,2019,27,12,161,200,5
+0.164556962,1005,Wilde Tijger Achtbaan,Mondo Verde,Netherlands,Zierer,1977,62,6,327,395,17
+0.1643109541,1006,Canyon Blaster,Great Escape,United States,Arrow Dynamics,1972,87,12,467,566,36
+0.1636481242,1007,Twistrix,Drievliet Family Park,Netherlands,Maurer,2001,115,23,635,773,51
+0.1630094044,1008,Crazy Mouse,Steel Pier,United States,Reverchon,1997,48,8,263,319,8
+0.1624040921,1009,Go Bananas!,Wild Adventures,United States,Maurer,2000,58,11,322,391,14
+0.1623376623,1010,Crazy Mouse,Playland Park New York,United States,Zamperla,2003,68,14,380,462,13
+0.1620421754,1011,Canyon Blaster,Six Flags Magic Mountain,United States,E&F Miler Industries,1999,132,28,741,901,68
+0.1619217082,1012,Rabalder,Liseberg,Sweden,Zierer,2009,127,19,697,843,52
+0.160899654,1013,Potts Blitz,Potts Park,Germany,Zierer,1993,42,9,238,289,8
+0.1607298002,1014,Woody Woodpecker's Nuthouse Coaster,Universal Studios Florida,United States,Vekoma,1999,175,20,956,1151,174
+0.1597938144,1015,Daddy Pig's Roller Coaster,Peppa Pig Theme Park,United States,Zamperla,2022,42,9,240,291,13
+0.1580152672,1016,Jormungandr,Drayton Manor,United Kingdom,Zamperla,1987,97,13,545,655,140
+0.1577669903,1017,Roller Ball,Wiener Prater,Austria,Ride Engineers Switzerland,2020,27,11,168,206,14
+0.1576576577,1018,Super 8er Bahn,Wiener Prater,Austria,Pinfari,1997,45,15,273,333,28
+0.1570121951,1019,Marienkaferbahn,Safariland Stukenbrock,Germany,Zierer,1979,49,5,274,328,13
+0.1554568528,1020,Wildcat,Lake Compounce,United States,Philadelphia Toboggan Coasters,1927,110,25,653,788,60
+0.1553784861,1021,Arctic Blast,Ocean Park Hong Kong,China,Mack Rides,2012,32,14,205,251,11
+0.1550053821,1022,Road Runner Express,Six Flags Magic Mountain,United States,Vekoma,2000,135,18,776,929,71
+0.1549295775,1023,Zug des Manitu,Wiener Prater,Austria,CAM Baby Kart,2002,19,6,117,142,5
+0.1548387097,1024,Cyclone,Indiana Beach,United States,S.D.C.,2022,65,14,386,465,23
+0.1547029703,1025,Spirale Express,Bagatelle,France,Soquet,1996,56,13,335,404,12
+0.1544117647,1026,Tiger Trax,Como Town,United States,SBF Visa,2015,71,5,400,476,6
+0.1540616246,1027,Nopuko Air Coaster,Lost Island Theme Park,United States,Vekoma,1998,48,14,295,357,6
+0.1534391534,1028,Roller Coaster,Hanayashiki,Japan,Togo,1953,28,2,159,189,6
+0.1533505155,1029,Jul's RollerSkates,Julianatoren,Netherlands,Vekoma,1993,54,11,323,388,31
+0.152991453,1030,Freeway Coaster,Adventure City,United States,E&F Miler Industries,1994,76,27,482,585,12
+0.1529209622,1031,Achtbaan,Amusementpark Tivoli,Netherlands,Zierer,1980,44,1,246,291,11
+0.1524953789,1032,Diamond Mine Run,Magic Springs Theme and Water Park,United States,E&F Miler Industries,2000,73,19,449,541,8
+0.152173913,1033,Mind Eraser,Six Flags America,United States,Vekoma,1995,123,27,747,897,103
+0.1518151815,1034,Voltigo,Dennlys Parc,France,Gosetto,2015,43,6,254,303,7
+0.1510538642,1035,Cobra,Six Flags Discovery Kingdom,United States,Zierer,2000,123,12,719,854,47
+0.1508964143,1036,Flying Ace Aerial Chase,Kings Island,United States,Vekoma,2001,141,21,842,1004,163
+0.150779896,1037,Steamin' Demon,Great Escape,United States,Arrow Dynamics,1984,82,10,485,577,42
+0.1505235602,1038,Screamin' Centipede,Tom Foolerys Adventure Park,United States,SBF Visa,2020,51,13,318,382,7
+0.1489130435,1039,Twistosaurus,Flamingo Land,United Kingdom,Zamperla,2013,65,7,388,460,68
+0.1472424558,1040,Flying Fish,Thorpe Park,United Kingdom,Mack Rides,1983,128,27,806,961,275
+0.1469165659,1041,Coaster Express,Parque Warner Madrid,Spain,Roller Coaster Corporation of America,2002,97,49,681,827,39
+0.1462585034,1042,Dragon Chinois,Jardin d'Acclimatation,France,Soquet,1987,15,13,119,147,13
+0.1456521739,1043,Twist 'n' Shout,Family Kingdom Amusement Park,United States,Zamperla,1999,64,6,390,460,16
+0.1449752883,1044,Mighty Mini Mega,Adventure Island,United Kingdom,Pinfari,2003,80,16,511,607,56
+0.1439628483,1045,Air Grover,Busch Gardens Tampa,United States,Zierer,2010,125,29,815,969,102
+0.143018018,1046,Flounder's Flying Fish Coaster,Tokyo DisneySea,Japan,Togo,2001,58,11,375,444,11
+0.1426553672,1047,Wild West Express,Adventure Park USA,United States,Zamperla,1997,42,17,295,354,8
+0.1426553672,1048,Barnstormer,Adventure Island,United Kingdom,Zierer,2000,95,12,601,708,54
+0.1407828283,1049,Silver Streak,Canada's Wonderland,Canada,Vekoma,2001,97,29,666,792,57
+0.1404886562,1050,Drachenjagd,Legoland Deutschland,Germany,Gerstlauer,2003,71,19,483,573,46
+0.1385480573,1051,Backyardigans: Mission to Mars,Movie Park Germany,Germany,Vekoma,1996,126,19,833,978,142
+0.1382716049,1052,Galaxi,Cliff's Amusement Park,United States,S.D.C,1977,50,12,343,405,6
+0.1371173469,1053,Pteranodon Flyers,Universal Studios Islands of Adventure,United States,Setpoint,1999,97,21,666,784,75
+0.1354166667,1054,Tidal Twist,Columbus Zoo and Aquarium,United States,Zamperla,2021,23,6,163,192,8
+0.1353887399,1055,Kikkerachtbaan,Duinrell,Netherlands,Zierer,1985,95,12,639,746,89
+0.1350482315,1056,Familien-Achterbahn,Tolk Schau,Germany,Zierer,2000,39,6,266,311,10
+0.1346863469,1057,Toboggan Nordique,La Ronde,Canada,Zamperla,2003,61,24,457,542,21
+0.1341107872,1058,Autosled,Galaxyland Amusement Park,Canada,Zierer,1985,42,8,293,343,7
+0.1325581395,1059,Super Grover's Box Car Derby,SeaWorld Orlando,United States,Zierer,2006,127,31,917,1075,118
+0.1322580645,1060,Woodstock Express,Walibi Rhône-Alpes,France,Zamperla,2002,36,10,264,310,24
+0.1308203991,1061,Rattlesnake Coaster,Adventureland New York,United States,Zierer,1995,56,6,389,451,16
+0.1306306306,1062,Crazy Mouse,Tropic Falls Amusement Park,United States,Zamperla,2017,52,12,380,444,10
+0.1301369863,1063,SOS Numérobis,Parc Astérix,France,Zierer,1990,105,18,753,876,76
+0.1290322581,1064,Tigre de Sibérie,Le Pal,France,Reverchon,1990,18,4,133,155,15
+0.1264880952,1065,Achtbaan,Kinderstad Heerlen,Netherlands,Preston & Barbieri,2013,37,11,288,336,18
+0.1255060729,1066,Coastersaurus,Legoland California,United States,Gerstlauer,2004,87,12,642,741,49
+0.1253298153,1067,Bisværmen,Tivoli Friheden,Denmark,SBF Visa,2016,43,9,327,379,12
+0.1244239631,1068,Tidal Wave,Trimper Rides,United States,Vekoma,1986,24,6,187,217,9
+0.1240409207,1069,Ravine Flyer 3,Waldameer,United States,E&F Miler Industries,2000,90,14,678,782,45
+0.1234899329,1070,Kamelen,Tivoli Gardens,Denmark,Zierer,2019,82,20,643,745,48
+0.1227758007,1071,Grover's Alpine Express,Busch Gardens Williamsburg,United States,Zierer,2009,97,13,733,843,88
+0.1218795888,1072,Marienkaferbahn,Fort Fun Abenteuerland,Germany,Zierer,1986,76,14,591,681,35
+0.1209349593,1073,Gauntlet,Magic Spings Theme and Water Park,United States,Vekoma,2004,49,21,422,492,10
+0.1202158979,1074,Drako,Walibi Holland,Netherlands,Zierer,1987,110,25,884,1019,203
+0.1201923077,1075,Dream Hunters Society,Legendia Śląskie Wesołe Miasteczko,Poland,Pinfari,2003,44,12,360,416,25
+0.1200527704,1076,Ladybird,Lightwater Valley,United Kingdom,Zierer,1993,39,13,327,379,32
+0.1199376947,1077,Boomerang,La Ronde,Canada,Vekoma,1984,35,7,279,321,21
+0.1196043165,1078,Rexplorer,Mirabilandia,Italy,Mack Rides,1992,59,15,482,556,28
+0.1193379791,1079,Dragon,La Ronde,Canada,Intamin,1994,56,25,493,574,22
+0.1184573003,1080,Canopy Flyer,Universal Studios Singapore,Singapore,Setpoint,2010,35,16,312,363,19
+0.1169554455,1081,Sprocket Rockets,Six Flags Great America,United States,Vekoma,1998,87,15,706,808,55
+0.1149068323,1082,Tsunami,Six Flags Mexico,Mexico,Zierer,1981,32,10,280,322,7
+0.1145194274,1083,Familienachterbahn,Schlos Beck Freizeitpark,Germany,Zierer,1987,52,8,429,489,15
+0.114516129,1084,Achterbahn,Kernie's Familienpark,Germany,Zamperla,1995,33,5,272,310,5
+0.1136363636,1085,Blue Tornado,Gardaland,Italy,Vekoma,1998,79,27,708,814,108
+0.1127819549,1086,Kiddy Hawk,Carowinds,United States,Vekoma,2003,89,32,810,931,113
+0.1125,1087,Eichhornchenbahn,Freizeitpark Lochmuhle,Germany,Zierer,1992,11,5,104,120,8
+0.1120527307,1088,Dragon's Apprentice,Legoland Windsor,United Kingdom,WGH Transportation,1999,54,11,466,531,136
+0.1120092379,1089,Kong,Six Flags Discovery Kingdom,United States,Vekoma,1995,84,26,756,866,54
+0.1119565217,1090,Dune,MagicLand,Italy,Vekoma,2011,46,11,403,460,8
+0.1115196078,1091,Corkscrew,Nagashima Spa Land,Japan,Arrow Dynamics,1979,43,5,360,408,14
+0.1107954545,1092,Family Roller Coaster,Wildlife World,United States,Chance Rides,2016,19,1,156,176,5
+0.1089193825,1093,Woodstock Express,California's Great America,United States,Intamin,1987,56,15,512,583,37
+0.1086705202,1094,Flight Deck,Canada's Wonderland,Canada,Vekoma,1995,79,30,756,865,88
+0.1072874494,1095,Puss in Boots' Giant Journey,Universal Studios Singapore,Singapore,Zamperla,2015,22,9,216,247,19
+0.1072727273,1096,Requin Express',Cita-Parc,France,Preston & Barbieri,2018,28,3,244,275,6
+0.1065965583,1097,Limit,Heide Park Resort,Germany,Vekoma,1999,94,35,917,1046,150
+0.1061946903,1098,Holzwurmachterbahn,Jaderpark,Germany,Zierer,1996,11,2,100,113,5
+0.1054421769,1099,Runaway Train,Gulliver's Milton Keynes,United Kingdom,Zamperla,2002,11,9,127,147,14
+0.1050583658,1100,Arkansas Twister,Magic Springs Theme and Water Park,United States,Roller Coaster Cooporation of America,1978,25,4,228,257,7
+0.1046025105,1101,Mine Train,PowerLand,Finland,Zamperla,2007,22,6,211,239,10
+0.1032967033,1102,Cheddar Chase,Alabama Adventure & Splash Adventure,United States,L&T Systems,2001,43,8,404,455,5
+0.103030303,1103,Spinning Coaster,Kinderstad Heerlen,Netherlands,SBF Visa,2018,30,8,292,330,9
+0.1028571429,1104,Outpost Express,Wild Adventures,United States,Vekoma,2000,51,6,468,525,15
+0.1020942408,1105,Wipeout,Palace Playland,United States,SBF Visa,2018,16,7,168,191,8
+0.1018641811,1106,Draken,Energylandia,Poland,Preston & Barbieri,2019,70,13,668,751,81
+0.1015625,1107,HuriHuri,TusenFryd,Norway,Zamperla,2022,18,3,171,192,7
+0.09973404255,1108,Froschbahn,Bayern Park,Germany,Zierer,1995,35,5,336,376,12
+0.09950248756,1109,Octonauts Rollercoaster Adventure,Alton Towers,United Kingdom,Zamperla,2015,76,8,720,804,182
+0.09880239521,1110,Dragon's Apprentice,Legoland Dubai,United Arab Emirates,Zamperla,2016,15,3,149,167,8
+0.09863945578,1111,Coccinelle,Walibi Rhône-Alpes,France,Zierer,1992,25,8,261,294,24
+0.09811320755,1112,Crazy Dane Coaster,Scandia Family Fun Center,United States,E&F Miler Industries,1999,23,6,236,265,6
+0.09682539683,1113,Whirlwind,Great Yarmouth Pleasure Beach,United Kingdom,SBF Visa,2015,28,5,282,315,26
+0.09595959596,1114,Miner Mike,Knucklehead's Bowling & Family Entertainment,United States,Wisdom Rides,2007,42,11,442,495,14
+0.09585492228,1115,Enchanted Airways,Universal Studios Singapore,Singapore,Vekoma,2010,33,8,345,386,21
+0.094,1116,Jungle Rally,Djurs Sommerland,Denmark,Zierer,2018,43,8,449,500,25
+0.09375,1117,Drachenwirbel,Freizeitpark Plohn,Germany,SBF Visa,2017,33,9,358,400,29
+0.09375,1118,Kids Spin,Skyline Park,Germany,SBF Visa,2017,48,15,529,592,25
+0.09202453988,1119,Queen Bee,Botton's Pleasure Beach,United Kingdom,Pinfari,2002,27,6,293,326,24
+0.09166666667,1120,Mariehonen,Bakken,Denmark,Zierer,1981,66,11,703,780,35
+0.09133964817,1121,Flying School,Legoland Florida,United States,Vekoma,2004,61,13,665,739,37
+0.09065420561,1122,Sea Serpent,Santa Cruz Beach Boardwalk,United States,E&F Miler Industries,2000,42,13,480,535,25
+0.09,1123,Ronde des Rondins,Fraispertuis City,France,Zierer,2014,32,8,360,400,13
+0.08992805755,1124,Red Mountain,Fiabilandia,Italy,Preston & Barbieri,2019,10,5,124,139,7
+0.08903133903,1125,Swiss Toboggan,Little Amerricka,United States,Chance Rides,1993,50,25,627,702,30
+0.08872651357,1126,Patriot,Castles n' Coasters,United States,Hopkins,1992,39,7,433,479,17
+0.08856088561,1127,Ednör - L'Attaque,La Ronde,Canada,Vekoma,1999,40,16,486,542,24
+0.08785249458,1128,Soarin' Eagle,Luna Park,United States,Zamperla,2002,62,38,822,922,52
+0.08733624454,1129,Cruiser Coaster,Craig's Cruisers Family Fun Center Wyoming,United States,SBF Visa,2018,36,8,414,458,7
+0.08724832215,1130,Condor,Walibi Holland,Netherlands,Vekoma,1994,74,34,935,1043,266
+0.08662280702,1131,Spinning Out,Beech Bend,United States,SBF Visa,2016,34,11,411,456,15
+0.08603667137,1132,Stampbanan,Liseberg,Sweden,Preston & Brabieri,2013,52,18,639,709,44
+0.08447488584,1133,Super Grovers Box Car Derby,SeaWorld San Antonio,United States,Zierer,2004,48,15,594,657,29
+0.08441558442,1134,Vauhtimato,Särkänniemi Amusement Park,Finland,Zierer,1984,23,6,279,308,13
+0.08364312268,1135,Timber Twister,Gilroy Gardens Family Theme Park,United States,Zierer,2001,39,12,487,538,14
+0.08294930876,1136,Mars,Energylandia,Poland,SBF Visa,2014,50,8,593,651,68
+0.0824742268,1137,Wilderness Run,Cedar Point,United States,Intamin,1979,50,12,617,679,77
+0.08189655172,1138,Voyage Dans Le Ciel,Fuji-Q Highland,Japan,Hoei Sangyo,2001,17,4,211,232,7
+0.08123425693,1139,Happy Loops,Energylandia,Poland,SBF Visa,2017,54,21,719,794,70
+0.08064516129,1140,Junior Red Force,Ferrari Land,Spain,SBF Visa,2018,49,22,673,744,60
+0.08005082592,1141,Kiddie Coaster,Fun Spot America Kissimmee,United States,E&F Miler Industries,2001,55,16,716,787,53
+0.07950530035,1142,Doggy Dog,Freizeit-Land Geiselwind,Germany,SBF Visa,2017,20,5,258,283,15
+0.07900677201,1143,Gadget's Go Coaster,Tokyo Disneyland,Japan,Vekoma,1995,31,8,404,443,7
+0.07883597884,1144,Indy- Blitz,Heide Park Resort,Germany,Zierer,2008,67,15,863,945,104
+0.07818930041,1145,Bandidos,Mer de Sable,France,SBF Visa,2016,17,4,222,243,8
+0.07794361526,1146,Bat,Lagoon,United States,Vekoma,2005,40,14,549,603,40
+0.07777777778,1147,Blazin' Buckaroo,Elitch Gardens,United States,E&F Miler Industries,1998,13,2,165,180,5
+0.0775862069,1148,Dragon,Canobie Lake Park,United States,Zamperla,1991,31,10,423,464,23
+0.07723577236,1149,Nuclear Rush,Scene75 Entertainment Center Dublin,United States,SBF Visa,2019,25,7,337,369,12
+0.07699275362,1150,Super Flight,Playland Park New York,United States,Zamperla,2004,37,11,504,552,12
+0.07651245552,1151,Python Pit,PowerPlay Family Entertainment Center,United States,E&F Miler Industries,1999,18,7,256,281,5
+0.07642725599,1152,Swamp Thing,Wild Adventures,United States,Vekoma,2003,34,15,494,543,14
+0.07589285714,1153,Zooom!,Flamingo Land,United Kingdom,Zamperla,2011,31,6,411,448,58
+0.07566462168,1154,Ba-a-a-Express,Europa Park,Germany,ART Enginnering,2016,66,16,896,978,120
+0.07563694268,1155,Woodstock Express,Michigan's Adventure,United States,Chance Rides,1999,41,13,574,628,24
+0.07561728395,1156,Joust,Dutch Wonderland,United States,Chance Rides,1998,42,14,592,648,26
+0.07530120482,1157,Merlin's Revenge,Castle Amusement Park,United States,Vekoma,2001,22,6,304,332,5
+0.07489300999,1158,Little Dipper,Quassy Amusement Park,United States,Allan Herschell Company,1952,43,19,639,701,25
+0.07456140351,1159,Great Chase,Six Flags New England,United States,E&F Miler Industries,1996,38,9,523,570,39
+0.07449856734,1160,Timberline Twister,Knott's Berry Farm,United States,Bradley and Kaye,1983,47,10,641,698,58
+0.07446808511,1161,Creepy Crawler,Oakwood Theme Park,United Kingdom,Pinfari,1998,23,10,343,376,53
+0.07421875,1162,Kiddi Koasta,Adventure Island,United Kingdom,Zamperla,2011,34,8,470,512,48
+0.07205240175,1163,Fun in the Sun,Funplex,United States,SBF Visa,2021,14,5,210,229,7
+0.07186081694,1164,Circus Coaster,Luna Park,United States,Zamperla,2010,42,11,608,661,30
+0.07142857143,1165,Dragon Coaster,Castle Fun Center,United States,E&F Miler Industries,1997,12,2,168,182,6
+0.07142857143,1166,Twist-N-Shout,Fun Land of Fredericksburg,United States,SBF Visa,2018,19,5,277,301,8
+0.0703125,1167,Drakenbaan,Speelpark Oud Valkeveen,Netherlands,Zamperla,2019,15,6,235,256,7
+0.06954887218,1168,Myrtle Turtle,Pavilion Park,United States,SBF Visa,2014,13,11,242,266,5
+0.06944444444,1169,Go Gator,Flamingo Land,United Kingdom,Wisdom Rides,1994,11,3,166,180,21
+0.06914893617,1170,Loop Roller Coaster,CJ Barrymore's Family Entertainment Center,United States,Pinfari,1996,18,3,261,282,7
+0.06850282486,1171,Streamliner Coaster,Six Flags Fiesta Texas,United States,Vekoma,1992,42,13,653,708,40
+0.06827309237,1172,Speedy Gonzales,Cavallino Matto,Italy,L&T Systems,2003,15,4,230,249,9
+0.06808035714,1173,Wild West Express,Glenwood Caverns Adventure Park,United States,Zierer,2012,25,11,412,448,13
+0.06684491979,1174,Ladybird,Wicksteed Park,United Kingdom,Zierer,1999,11,3,173,187,20
+0.0658436214,1175,Polar Coaster,Story Land,United States,Hopkins,1987,13,6,224,243,19
+0.06568364611,1176,Dino Roller,Flamingo Land,United Kingdom,Cavazza Diego,1988,22,5,346,373,44
+0.06557377049,1177,Spinning Parrot,Island in Pigeon Forge,United States,SBF Visa,2018,25,6,396,427,12
+0.06539509537,1178,Nyckelpigan,Gröna Lund,Sweden,Zierer,1976,42,12,680,734,33
+0.06500802568,1179,Dino Chase,Paultons Park,United Kingdom,Zierer,2003,37,7,579,623,79
+0.06496062992,1180,Dragon Challenge,Barry Island Pleasure Park,United Kingdom,Pinfari,1983,14,5,235,254,14
+0.06461232604,1181,Wild Whizzer,Morey's Piers,United States,SBF Visa,2018,30,5,468,503,16
+0.06443298969,1182,Dragen,Tivoli Friheden,Denmark,Pinfari,2001,22,6,360,388,13
+0.06423611111,1183,Cobra,Freizeit-Land Geiselwind,Germany,Interpark,2015,10,17,261,288,18
+0.06416666667,1184,Wilderness Run,Carowinds,United States,E&F Miler Industries,1998,36,5,559,600,44
+0.06376518219,1185,Python Pit,Go-Karts Plus,United States,E&F Miler Industries,1998,26,11,457,494,8
+0.06238698011,1186,Leprotto Express,Mirabilandia,Italy,L&T Systems,2005,30,9,514,553,27
+0.06124497992,1187,Sea Serpent,Deno's Wonder Wheel Amusement Park,United States,E&F Miler Industries,1999,29,3,466,498,17
+0.06097560976,1188,Eifel Blitz,Eifelpark,Germany,DAL Amusement Rides Company,2008,20,5,344,369,14
+0.06049822064,1189,Freedom Rider,iPlay America,United States,SBF Visa,2016,15,4,262,281,5
+0.06049149338,1190,Little Dipper,Little Amerricka,United States,Allan Herschell Company,1993,28,8,493,529,18
+0.05992509363,1191,Whirlwind,Waldameer,United States,SBF Visa,2020,28,8,498,534,30
+0.05833333333,1192,Turbo,Brighton Pier,United Kingdom,Pinfari,1996,20,9,391,420,46
+0.05829015544,1193,Runaway Mine Train,Flamingo Land,United Kingdom,Zamperla,2007,22,1,363,386,51
+0.05827067669,1194,Safari-Blitz-Kids,Serengeti Park,Germany,SBF Visa,2020,14,3,249,266,7
+0.05805892548,1195,Raupen Express,Schwaben Park,Germany,Zierer,2003,32,3,542,577,27
+0.05753968254,1196,Caterpillar,Brean Theme Park,United Kingdom,D.P.V. Rides,2001,12,5,235,252,17
+0.05737704918,1197,Pirates Gold Rush,Playland's Castaway Cove,United States,E&F Miler Industries,2013,22,5,400,427,13
+0.0572972973,1198,Sea Serpent,Fun Spot America Orlando,United States,E&F Miler Industries,2013,43,20,862,925,55
+0.05662020906,1199,Lil' Phantom,Kennywood,United States,Molina & Son's,1996,28,9,537,574,48
+0.05633802817,1200,Wile E. Coyote's Grand Canyon Blaster,Six Flags Over Texas,United States,Chance Rides,2001,34,4,601,639,26
+0.05504587156,1201,Ladybird Loop,Emerald Park,Ireland,SBF Visa,2018,4,4,101,109,11
+0.05497925311,1202,Whirlwind,Playland's Castaway Cove,United States,SBF Visa,2016,25,3,454,482,13
+0.05297297297,1203,Kleine Zar,Hansa Park,Germany,Preston & Barbieri,2017,44,10,871,925,86
+0.05296610169,1204,Little Coaster,Arnolds Park,United States,Miler Manufacturing,2002,11,3,222,236,5
+0.05235042735,1205,DUPLO Dino Coaster,Legoland Windsor,United Kingdom,ART Engineering,2020,21,7,440,468,64
+0.05090497738,1206,Time Warp,Canada's Wonderland,Canada,Zamperla,2004,37,16,831,884,87
+0.05088495575,1207,Rudy's Rapid Transit,Santa's Village,United States,Zierer,1988,9,5,212,226,11
+0.05,1208,Marienkaferbahn,Traumland auf der Barenhohle,Germany,Zierer,1996,12,0,228,240,9
+0.05,1209,Jellikins Coaster,Fantasy Island Lincolnshire,United Kingdom,WGH Transportation,1996,6,3,141,150,15
+0.04977375566,1210,Kiddie Coaster,Fun Spot America Atlanta,United States,E&F Miler Industries,1999,21,2,419,442,11
+0.04965517241,1211,Frutti Loop Coaster,Energylandia,Poland,SBF Visa,2014,31,10,684,725,69
+0.04880294659,1212,Krazy Koaster,Silverwood Theme Park,United States,SBF Visa,2014,23,7,513,543,10
+0.0475,1213,Kombo,Indianapolis Zoo,United States,Zierer,2001,9,1,190,200,10
+0.04590163934,1214,Big Apple,Great Yarmouth Pleasure Beach,United Kingdom,Pinfari,1998,12,4,289,305,24
+0.04506437768,1215,Runaway Train,Botton's Pleasure Beach,United Kingdom,Meridian,1991,10,1,222,233,19
+0.04504504505,1216,Little Titans,Mt. Olympus Water & Theme Park,United States,E&F Miler Industries,2000,8,4,210,222,6
+0.04496402878,1217,Lady Bug Coaster,Marineland Theme Park,Canada,Zierer,1979,24,2,530,556,16
+0.0444015444,1218,Spur & The Big Apple,Verkeers- en Attractiepark Duinen Zathe,Netherlands,Unknown,2002,11,1,247,259,10
+0.04439252336,1219,Pearly Whirly Coaster,Craig's Cruisers Family Fun Center Mears,United States,SBF Visa,2020,7,5,202,214,5
+0.04411764706,1220,Serial Serpent,Funtimes Fun Park,United States,E&F Miler Industries,1997,7,1,162,170,6
+0.04329608939,1221,Lucy's Crabbie Cabbies,California's Great America,United States,E&F Miler Industries,1999,10,11,337,358,20
+0.0428907168,1222,Whistle Punk Chaser,Dollywood,United States,Zamperla,2017,32,9,810,851,79
+0.04255319149,1223,Frankie's Mine Train,Frontier City,United States,Zamperla,2019,15,6,402,423,13
+0.04189944134,1224,Pindsvinet,Fårup Sommerland,Denmark,Zamperla,2012,16,13,508,537,25
+0.04166666667,1225,Dolle Pier,DippieDoe Attractiepark,Netherlands,SBF Visa,2018,11,4,297,312,9
+0.04011741683,1226,Great Pumpkin Coaster,Kings Island,United States,E&F Miler Industries,1992,18,5,488,511,61
+0.04005340454,1227,Speedy Gonzales Hot Rod Racers,Six Flags Magic Mountain,United States,Zamperla,2014,25,10,714,749,50
+0.03963414634,1228,Rupsje Mae,De Waarbeek,Netherlands,Guven Amusement Rides Factory,2010,11,4,313,328,10
+0.03928571429,1229,Magic Flyer,Six Flags Magic Mountain,United States,Bradley and Kaye,1971,14,5,401,420,14
+0.03917050691,1230,Pomme,Parc Saint Paul,France,DAL Amusement Rides Company,2005,16,2,416,434,11
+0.03908045977,1231,Family Coaster,Freizeitpark Plohn,Germany,SBF Visa,2006,14,6,415,435,30
+0.0390070922,1232,Little Dipper,Lightwater Valley,United Kingdom,D.P.V. Rides,2003,7,8,267,282,19
+0.03869047619,1233,Slingshot,Camden Park,United States,SBF Visa,2016,8,10,318,336,8
+0.03801652893,1234,Mind Eraser,Elitch Gardens,United States,Vekoma,1997,15,16,574,605,24
+0.03746397695,1235,Family Coaster,Walygator Grand Est,France,Unknown,2007,12,2,333,347,12
+0.03716216216,1236,Volare,Wiener Prater,Austria,Zamperla,2004,19,6,567,592,35
+0.03676470588,1237,Batman The Ride,Six Flags Mexico,Mexico,Vekoma,2000,5,0,131,136,6
+0.03631284916,1238,Frankie's Mine Train,Great Escape,United States,Zamperla,2005,10,6,342,358,13
+0.03596491228,1239,Wacky Worm,DelGrosso's Amusement Park,United States,Fajume,2004,19,3,548,570,13
+0.03585271318,1240,Crocodile Coaster,Oakwood Theme Park,United Kingdom,Unknown,1992,14,9,493,516,35
+0.03571428571,1241,Bubbles The Coaster,Storybook Land New Jersey,United States,E&F Miler Industries,2000,3,3,120,126,5
+0.03465346535,1242,Rattler,Alley Cats,United States,SBF Visa,2017,6,2,194,202,5
+0.03459119497,1243,Tumbleweed,Adventure Park USA,United States,Miler Manufacturing,2014,9,4,305,318,6
+0.03450704225,1244,Grand Exposition Coaster,Silver Dollar City,United States,Zamperla,2006,21,7,682,710,50
+0.03448275862,1245,Puff the Little Fire Dragon,Lagoon,United States,Zierer,1985,17,4,530,551,24
+0.03436426117,1246,Superman Krypton Coaster,Six Flags Mexico,Mexico,Vekoma,1993,10,0,281,291,5
+0.03409090909,1247,Pacific Fruit Express,Happy Hollow Park and Zoo,United States,E&F Miler Industries,2010,4,1,127,132,5
+0.03396226415,1248,Fiesta Express,Fun Fore All Family Entertainment Center,United States,Zamperla,2003,7,4,254,265,7
+0.03333333333,1249,Looping Star,Jolly Roger at the Pier,United States,Pinfari,1996,3,1,101,105,8
+0.03313840156,1250,Family Flyer,Playland Park New York,United States,Zamperla,2001,14,6,493,513,8
+0.03209876543,1251,Hot Tamales,Casino Pier,United States,L&T Systems,2003,10,6,389,405,9
+0.03205128205,1252,Thriller,Land of Make Believe,United States,E&F Miler Industries,1994,7,1,226,234,7
+0.032,1253,Wacky Worm,Gillian's Wonderland Pier,United States,Fajume,2012,10,4,361,375,8
+0.03191489362,1254,Southern Express,Tropic Falls Amusement Park,United States,Zamperla,2017,5,11,313,329,9
+0.03104786546,1255,Cocoa Cruiser,Hersheypark,United States,Zamperla,2014,19,10,744,773,68
+0.03101503759,1256,Great Pumpkin Coaster,Kings Dominion,United States,E&F Miler Industries,1997,15,3,514,532,32
+0.0307591623,1257,Woodstock's Express,Dorney Park & Wildwater Kingdom,United States,Zamperla,2000,21,5,738,764,49
+0.03066037736,1258,Speedway Coaster,NASCAR SpeedPark,United States,Zierer,2004,11,4,409,424,9
+0.0306122449,1259,Rock 'N Roll Duncan,Fuji-Q Highland,Japan,Sansei Yusoki,1999,3,0,95,98,5
+0.03021978022,1260,Dinocoaster,Zatorland,Poland,Fun Rides Tech,2016,5,1,176,182,5
+0.02923076923,1261,Howler,Holiday World,United States,Zamperla,1999,24,9,942,975,88
+0.02827380952,1262,Lil' Dipper,Camden Park,United States,National Amusement Device Company,1967,7,5,324,336,9
+0.02777777778,1263,African Big Apple,West Midland Safari Park,United Kingdom,Pinfari,1999,4,2,174,180,18
+0.02631578947,1264,Cosmic Coaster,Worlds of Fun,United States,Preston & Barbieri,1993,15,7,681,703,19
+0.02631578947,1265,Pirates Hideaway,Casino Pier,United States,Wisdom Rides,2007,12,4,516,532,12
+0.025,1266,Cosmic Coaster,Valleyfair!,United States,Zamperla,1992,11,6,543,560,23
+0.025,1267,Beehive Coaster,Dreamland,United Kingdom,D.P.V. Rides,2017,3,3,174,180,9
+0.02492211838,1268,Mini Mouse Cartoon,Parc Saint Paul,France,Zamperla,2004,7,2,312,321,9
+0.02491694352,1269,Dragon Coaster,Las Vegas Mini Gran Prix,United States,Wisdom Rides,2000,6,3,292,301,6
+0.02483660131,1270,Circus Coaster,Energylandia,Poland,SBF Visa,2017,16,6,743,765,61
+0.02441229656,1271,Lil' Devil Coaster,Six Flags Great Adventure,United States,Zamperla,1999,11,5,537,553,41
+0.02380952381,1272,Clown Coaster,Wicksteed Park,United Kingdom,Pinfari,2011,3,3,183,189,17
+0.02366255144,1273,Wacky Worm,Lake Winnepesaukah,United States,Fajume,1991,11,1,474,486,9
+0.02318548387,1274,Paw Patrol,Parque de Atracciones de Madrid,Spain,Zamperla,2007,9,5,482,496,22
+0.02248062016,1275,Great Chase,Six Flags America,United States,Zamperla,1999,13,3,629,645,33
+0.0223880597,1276,Disco Twister,Mega Speelstad,Belgium,EOS,2005,6,0,262,268,5
+0.02205882353,1277,Jungle,Drouwenerzand Attractiepark,Netherlands,EOS,2005,5,2,265,272,16
+0.01985294118,1278,Padrinos Voladores,Parque de Atracciones de Madrid,Spain,Zamperla,2007,8,11,661,680,23
+0.01938610662,1279,Road Runner Express,Six Flags Discovery Kingdom,United States,Zamperla,1999,10,4,605,619,24
+0.01759834369,1280,Back at the Barnyard Hayride,Nickelodeon Universe,United States,Zamperla,1995,6,5,472,483,25
+0.01726844584,1281,Hero,Flamingo Land,United Kingdom,Zamperla,2013,9,4,624,637,97
+0.01666666667,1282,Taxi Jam,Canada's Wonderland,Canada,E&F Miler Industries,1998,6,3,441,450,24
+0.016563147,1283,Orient Express,Palace Playland,United States,Wisdom Rides,1998,6,4,473,483,8
+0.01648351648,1284,Tiny Toot,Silverwood Theme Park,United States,Zamperla,1998,3,3,267,273,10
+0.01612903226,1285,Kiddie Coaster,Lake Compounce,United States,Molina & Son's,1997,4,5,394,403,11
+0.01424870466,1286,Wacky Worm,Santa's Village AZoosment Park,United States,Fajume,2015,4,3,379,386,12
+0.01397515528,1287,Kid'z Coaster,Bagatelle,France,SBF Visa,2015,3,3,316,322,11
+0.01351351351,1288,Swampwater Snake,Wild Adventures,United States,Zamperla,2003,2,5,326,333,6
+0.01351351351,1289,Little Dipper,Memphis Kiddie Park,United States,Allan Herschell Company,1952,3,1,255,259,8
+0.01342281879,1290,Centi-SPEED,Alabama Adventure & Splash Adventure,United States,Fajume,2014,5,2,440,447,6
+0.01285714286,1291,Tuff-Tuff Tåget,Gröna Lund,Sweden,Zamperla,2010,8,2,690,700,28
+0.01260504202,1292,Bront'O'Ring,Movieland Park,Italy,DAL Amusement Rides Company,2007,3,3,351,357,14
+0.01083591331,1293,Sky Rangers,Tom Foolerys Adventure Park,United States,SBF Visa,2018,1,5,317,323,6
+0.01020408163,1294,Lokolo,Lost Island Amusement Park,United States,SBF Visa,2022,3,1,339,343,5
+0.007859733978,1295,Viking Roller Coaster,Energylandia,Poland,SBF Visa,2014,4,5,818,827,88
+0.007042253521,1296,Big Apple,Botton's Pleasure Beach,United Kingdom,Pinfari,1987,1,1,211,213,18
+0.006172839506,1297,Dragon Wagon,Joyland Amusement Park,United States,Wisdom Rides,2000,1,1,241,243,5
+0.006172839506,1298,Apple Coaster,Southport Pleasureland,United Kingdom,DAL Amusement Rides Company,2016,1,0,161,162,10
+0.003957783641,1299,Star Force Orbitor,Tom Foolerys Adventure Park,United States,SBF Visa,2020,1,1,377,379,6
+0.001865671642,1300,Familie Achtbaan,Familiepretpark Mini Mundi,Netherlands,Zamperla,2009,0,1,267,268,8
+0.001736111111,1301,Trombi,Särkänniemi Amusement Park,Finland,Zamperla,2005,1,0,575,576,17
+0,1302,Wacky Mouse,York's Wild Kingdom,United States,Fajume,2010,0,0,147,147,7
+0,1303,Ring Renner,Trampolino Familien- und Freizeitpark,Germany,SBF Visa,2010,0,0,222,222,6
+0,1304,Little Leaper,Lakemont Park,United States,Allan Herschell Company,1959,0,0,260,260,8
